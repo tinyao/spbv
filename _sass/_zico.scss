@@ -17,6 +17,7 @@ body {
   color: white;
   font-family: Chinese Quote,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif;
   background: $pageBackground;
+  margin: 0;
 }
 
 a {
@@ -176,4 +177,66 @@ a {
       }
     }
   }
+}
+
+.topbar {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+  .main {
+    margin-left: 0;
+    padding: 15px;
+
+    .content {
+      margin-top: 55px;
+    }
+  }
+
+  .group {
+    padding: 0 0 10px 0;
+    .group-name {
+      padding: 10px 0;
+    }
+    .item {
+      .icon {
+        width: 28px;
+        height: 28px;
+      }
+      .text {
+        margin-left: 42px;
+      }
+
+      &.tutorial {
+        .icon {
+          height: 40vw;
+        }
+      }
+    }
+  }
+
+  .topbar {
+    background: $sidebarBackground;
+    padding: 0 15px;
+    position: fixed;
+    display: block;
+    z-index: 100;
+    width: 100%;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.20);
+    .logo {
+      width: 36px;
+      height: 36px;
+      margin: 12px 0;
+      float: left;
+    }
+    .title {
+      font-size: 13px;
+      margin: 20px 0;
+      margin-left: 50px;
+    }
+  }
+
 }
