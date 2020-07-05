@@ -338,7 +338,7 @@ items:
   - groupName: 器材推荐
     groupId: group-12
     links:
-      - name: 索尼 Z-V1
+      - name: 索尼 Z-V1  (VLOG 相机)
         type: tutorial
         icon: /assets/img/icons/sony-z1.jpg
         url: https://item.jd.com/100013468112.html
