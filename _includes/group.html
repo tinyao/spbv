@@ -1,0 +1,16 @@
+<div class="group" id="{{ include.group.groupName }}">
+  <div class="group-name">{{ include.group.groupName }}</div>
+  <div class="items">
+    <div class="row">
+      {% for item in include.group.links %}
+        <div class="col-md-6 col-lg-4 col-xl-3">
+          {% if item.type == "tutorial" %}
+            {% include item-tutorial.html item=item %}
+          {% else %}
+            {% include item.html item=item %}
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="banner">
+  <div class="banner-image" {% if page.cover != null %} style="background-image: url({{ page.cover }})" {% endif %} ></div>
+  <div class="banner-body">
+    <div class="banner-content">
+      <div class="page-title" style="color: #fff;">{{ page.title }}</div>
+      <p class="page-subtitle" style="color: #fff;">{{ page.date | date: "%Y-%m-%d" }}</p>
+    </div>
+  </div>
+</div>
+
+<div class="container page">
+	<div class="post">
+	  <article class="post-content">
+	    {{ content }}
+	  </article>
+	</div>
+</div>

@@ -1,0 +1,13 @@
+# _data/banner.yml
+items:
+  - image: https://img.mayun.xin/upload/2020031906/8344af9c1624c66884d8d33b067a0a4f.png?x-oss-process=image/resize,w_1600,limit_0/format,jpg/quality,Q_90/contrast,-60
+    title: 啦啦啦啦
+    subtitle: 哈哈哈
+    button: 点击查看
+    link: https://mayun.xin
+  - image: https://img.mayun.xin/upload/2020031906/8344af9c1624c66884d8d33b067a0a4f.png?x-oss-process=image/resize,w_1600,limit_0/format,jpg/quality,Q_90/contrast,-60
+    title: 啦啦啦啦
+    subtitle: 哈哈哈
+    button: 点击查看
+    link: https://mayun.xin
+ 

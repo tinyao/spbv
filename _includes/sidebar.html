@@ -1,0 +1,15 @@
+<div class="sidebar">
+
+  <a class="nav-logo">
+    <img src="{{ site.logo }}"/>
+  </a>
+
+  <ul class="nav-menu">
+    {% for item in site.data.navs.items %}
+    <li class="nav-menu-item">
+      <a href="#{{item.groupName}}">{{ item.groupName }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>

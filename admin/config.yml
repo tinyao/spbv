@@ -1,0 +1,104 @@
+# config.yml
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+collections:
+  - name: 'blog'
+    label: '文章'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: '布局', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: '标题', name: 'title', widget: 'string' }
+      - { label: '日期', name: 'date', widget: 'datetime' }
+      - { label: '摘要', name: 'summary', widget: 'string', required: false }
+      - { label: '封面', name: 'cover', widget: 'image' }
+      - { label: '分类', name: 'category', widget: 'select', multiple: true, options: ["最新动态", "公益故事", "视频中心", "媒体报道"]  }
+      - { label: '标签', name: 'tags', widget: 'list', required: false }
+      - { label: '来源', name: 'source', widget: 'string', required: false }
+      - { label: '正文', name: 'body', widget: 'markdown' }
+  - name: 'program'
+    label: '项目'
+    folder: '_programs/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'program' }
+      - { label: '标题', name: 'title', widget: 'string' }
+      - { label: '愿景', name: 'slogan', widget: 'string', required: false }
+      - { label: '封面', name: 'cover', widget: 'image' }
+      - { label: '领域', name: 'field', widget: 'select', options: ["教育", "企业家精神", "医疗环保", "女性领导力"] }
+      - { label: '正文', name: 'body', widget: 'markdown' }
+      - { label: '归档', name: 'archived', widget: 'boolean' }
+  - name: 'pages'
+    label: '页面'
+    editor:
+      preview: false
+    files:
+      - label: '关于我们'
+        name: 'pages'
+        file: 'pages/about.md'
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+          - { label: '标题', name: 'title', widget: 'string' }
+          - { label: '封面', name: 'cover', widget: 'image' }
+          - { label: '正文', name: 'body', widget: 'markdown' }
+  - name: "config"
+    label: "配置"
+    editor:
+      preview: false
+    files:
+      - label: "导航菜单"
+        name: "navigation"
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Navigation Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Link, name: link, widget: string}
+      - label: "Banner"
+        name: "banners"
+        file: "_data/banner.yml"
+        fields:
+          - label: "Banner Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: "主标题", name: title, widget: string}
+              - {label: "副标题", name: subtitle, widget: string}
+              - {label: "图片", name: image, widget: 'image'}
+              - {label: "按钮", name: button, widget: string}
+              - {label: "链接", name: link, widget: string}
+      # - label: "招聘职位"
+      #   name: "jobs"
+      #   file: "_data/jobs.yml"
+      #   fields:
+      #     - label: "Job Items"
+      #       name: "items"
+      #       widget: "list"
+      #       fields:
+      #         - {label: "主标题", name: title, widget: string}
+      #         - {label: "副标题", name: subtitle, widget: string}
+      #         - {label: "图片", name: image, widget: 'image'}
+      #         - {label: "按钮", name: button, widget: string}
+      #         - {label: "链接", name: link, widget: string}
+      - label: "大事记"
+        name: "events"
+        file: "_data/events.yml"
+        fields:
+          - label: "Event Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: "标题", name: title, widget: string}
+              - {label: "日期", name: date, widget: datetime}
+              - {label: "图片", name: image, widget: 'image'}
+              - {label: "描述", name: description, widget: string}
+              - {label: "链接", name: link, widget: string}

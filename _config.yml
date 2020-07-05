@@ -1,0 +1,33 @@
+# Site settings
+title: 视频伴侣，视频工作者导航
+description: "视频工作者导航"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.spbanlv.com" # the base hostname & protocol for your site
+permalink: /blog/:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+
+# 站点信息
+slogan: ""
+qrcode: https://img.mayun.xin/upload/2020031417/8f47db56dd3861351d569e8b19d58dcb.png
+logo: /assets/img/logo.svg
+
+# 样式资源主地址
+qiniu: /
+# UGC资源地址
+qiniu_upload: http://7xkw3c.com1.z0.glb.clouddn.com/upload/
+
+collections:
+  programs:
+    output: true
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: "google3d59c5ddb0a27621.html"
+    values:
+      sitemap: false
