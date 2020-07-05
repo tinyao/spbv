@@ -13,11 +13,17 @@ collections:
         name: "navs"
         file: "_data/navs.yml"
         fields:
-          - label: "Items"
+          - label: "Groups"
             name: "items"
             widget: "list"
             fields:
-              - {label: 名称, name: name, widget: string}
-              - {label: 图标, name: icon, widget: image}
-              - {label: 链接, name: url, widget: string}
-              - {label: 描述, name: description, widget: string}
+              - {label: 组名, name: groupName, widget: string}
+              - {label: 组ID, name: groupId, widget: string}
+              - label: 链接
+                name: links
+                widget: list, 
+                fields:
+                  - {label: "标题", name: name, widget: string}
+                  - {label: "图标", name: icon, widget: image}
+                  - {label: "链接", name: url, widget: string}
+                  - {label: "描述", name: description, widget: string}

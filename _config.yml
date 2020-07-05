@@ -19,7 +19,7 @@ qiniu: /
 qiniu_upload: http://7xkw3c.com1.z0.glb.clouddn.com/upload/
 
 collections:
-  programs:
+  links:
     output: true
 
 plugins:
