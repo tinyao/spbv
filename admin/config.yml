@@ -21,7 +21,7 @@ collections:
               - {label: 组ID, name: groupId, widget: string}
               - label: 链接
                 name: links
-                widget: list, 
+                widget: "list"
                 fields:
                   - {label: "标题", name: name, widget: string}
                   - {label: "图标", name: icon, widget: image}
