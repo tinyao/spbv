@@ -1,5 +1,6 @@
 items:
   - groupName: 剪辑软件
+    groupId: group-1
     links:
       - name: Adobe Premiere
         icon: /assets/img/icons/adobe-pr.png
@@ -42,6 +43,7 @@ items:
         url: http://www.aijianji.com/index.htm
         description: Win｜免费｜入门剪辑软件
   - groupName: 辅助工具
+    groupId: group-2
     links:
       - name: 视频大拍档
         icon: /assets/img/icons/视频大拍档.png
@@ -72,6 +74,7 @@ items:
         url: http://www.gfxcamp.com/
         description: 免费/拥有丰富的AR、Pr模版，FCPX插件
   - groupName: 视频素材
+    groupId: group-3
     links:
       - name: Pexels
         icon: 
@@ -114,6 +117,7 @@ items:
         url: https://www.vjshi.com/
         description: 订阅制｜视频素材站、AE特效、Pr模版、3D模型都很丰富
   - groupName: 音乐素材
+    groupId: group-4
     links:
       - name: ccMixter
         icon: 
@@ -160,6 +164,7 @@ items:
         url: https://icons8.com/music
         description: 免费/订阅制｜icon8出品，音乐标签分类清晰，仅支持英文搜索
   - groupName: 音效素材
+    groupId: group-5
     links:
       - name: 爱给网
         icon: 
@@ -174,6 +179,7 @@ items:
         url: http://www.soundgator.com/
         description: 免费｜音效素材第一站，拥有各种常见场景的音效，找音效来这里就对了
   - groupName: 图片素材
+    groupId: group-6
     links:
       - name: Unsplash
         icon: 
@@ -220,6 +226,7 @@ items:
         url: https://500px.com/
         description: 全球知名摄影分享平台
   - groupName: 字体素材
+    groupId: group-7
     links:
       - name: 字由
         icon: 
@@ -242,6 +249,7 @@ items:
         url: https://www.hellofont.cn/font-detail?fontid=7088
         description: 免费可商用字体｜优设网与字由联合发布的针对标题的字体
   - groupName: 字幕处理
+    groupId: group-8
     links:
       - name: ArcTime
         icon: 
@@ -264,6 +272,7 @@ items:
         url: https://huiying.bluepulse.cn/
         description: App/网页版｜¥0.4/分钟｜支持13种语言，支持生成双语字幕
   - groupName: 音频处理
+    groupId: group-9
     links:
       - name: Audio Converter
         icon: 
@@ -290,6 +299,7 @@ items:
         url: https://www.waves.com/
         description: 混音软件
   - groupName: 图片处理
+    groupId: group-10
     links:
       - name: tinypng
         icon: 
@@ -308,6 +318,7 @@ items:
         url: https://cli.im/
         description: 二维码生成器，支持将网址、文件、图片、微信等物料转化成二维码
   - groupName: 入门教程
+    groupId: group-11
     links:
       - name: 影视飓风：一小时上手达芬奇剪辑
         type: tutorial
@@ -325,6 +336,7 @@ items:
         url: https://www.bilibili.com/video/BV1T4411M7qJ
         description: 
   - groupName: 器材推荐
+    groupId: group-12
     links:
       - name: 索尼 Z-V1
         type: tutorial

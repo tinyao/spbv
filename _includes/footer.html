@@ -1,88 +1,10 @@
 <footer class="site-footer">
-
-  <!-- <div class="container">
-  	<div class="social">
-		<a class="fa fa-twitter" href="https://twitter.com/foundation_ma" target="_blank"></a>
-		<a class="fa fa-instagram" href="https://www.instagram.com/jackmafoundation/" target="_blank"></a>
-		<a class="fa fa-facebook" href="https://www.facebook.com/Jack-Ma-Foundation-2547579275259017/" target="_blank"></a>
-	    <a class="fa fa-weixin">
-	    	<img src="{{ site.qrcode }}" />
-	    </a>
-	    <a class="fa fa-weibo" href="https://weibo.com/jackmafoundation" target="_blank"></a>
-	    <a class="fa fa-envelope" href="mailto: info@jackmafoundation.org.cn" target="_blank"></a>
-	</div>
-
-  	<div class="copyright">
-    	© 2014-2020 {{ site.title }}. All Rights Reserved.
-    </div>
-
-  </div> -->
-
-  <div class="footer-cover"></div>
-
-  <div class="container">
-    <div class="row">
-      <div class="footer-logo">
-        <img class="footer-logo-img" src="https://img.mayun.xin/upload/2018082207/2eb1ce0a685923426ee1ee60756c7aef.png"/>
-      </div>
-      <div class="footer-content">
-        <div class="footer-navs-group">
-          <div class="footer-navs" id="footer-navs-fields">
-            <div class="footer-navs-header">公益项目</div>
-            <ul class="footer-navs-items">
-              <li><a href="/our-work/#education">教育</a></li>
-              <li><a href="/our-work/#entrepreneurship">企业家精神</a></li>
-              <li><a href="/our-work/#medical">医疗环保</a></li>
-              <li><a href="/our-work/#women-leadership">女性领导力</a></li>
-            </ul>
-          </div>
-          <div class="footer-navs" id="footer-navs-collaborations">
-            <div class="footer-navs-header">合作参与</div>
-            <ul class="footer-navs-items">
-              <li><a href="/collaborations/">企业</a></li>
-              <li><a href="/collaborations/">志愿者</a></li>
-              <li><a href="/collaborations/">媒体</a></li>
-            </ul>
-          </div>
-          <div class="footer-navs" id="footer-navs-about">
-            <div class="footer-navs-header">关于我们</div>
-            <ul class="footer-navs-items">
-              <li><a href="/about/">基金会简介</a></li>
-              <li><a href="/disclosure/">信息公开</a></li>
-              <li><a href="/team/">组织架构</a></li>
-              <li><a href="/career/">加入我们</a></li>
-            </ul>
-          </div>
-          <div class="footer-navs-contact" id="footer-navs-contact">
-            <div class="footer-navs-header">联系我们</div>
-            <div class="footer-navs-items">
-              <a href="mailto://info@jackmafoundation.org.cn">info@jackmafoundation.org.cn</a>
-              <p>浙江省杭州市余杭区火柿路 8 号</p>
-              <div class="social">
-                <a class="fa fa-twitter" href="https://twitter.com/foundation_ma" target="_blank"></a>
-                <a class="fa fa-instagram" href="https://www.instagram.com/jackmafoundation/" target="_blank"></a>
-                  <a class="fa fa-weixin">
-                    <img src="{{ site.qrcode }}" />
-                  </a>
-                  <a class="fa fa-weibo" href="https://weibo.com/jackmafoundation" target="_blank"></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <hr/>
-        <div class="copyright">
-          © 2014-2020 {{ site.title }} |  <a target="_blank" href="http://www.beian.miit.gov.cn/">浙ICP备15031689号</a>  |  All Rights Reserved.
-        </div>
-      </div>
-    </div>
-  </div>
-
 </footer>
 
-<script src="{{ "assets/bootstrap/js/jquery.min.js" | prepend: site.qiniu }}"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
-<script>
+<!-- <script>
   if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
       if (!user) {
@@ -92,33 +14,51 @@
       }
       });
   }
-</script>
+</script> -->
 
 <script>
-	jQuery(document).ready(function($) {
-	  $('.field').mouseover(function(){
-      var e=this;
-      $(".field-active").removeClass('field-active')
-      $(e).addClass("field-active")
-	  })
-    window.onscroll = function() {
-      console.log(document.documentElement.scrollTop)
-      if (document.documentElement.scrollTop > 320) {
-        document.getElementById('side-menu').classList.add('side-menu-fixed')
-      } else {
-        document.getElementById('side-menu').classList.remove('side-menu-fixed')
-      }
-    };
+  $(document).ready(function () {
+    $(document).on("scroll", onScroll);
 
+    $('a[href^="#"]').on('click', function (e) {
+        e.preventDefault();
+        $(document).off("scroll");
+        
+        $('a').each(function () {
+            $(this).removeClass('active');
+        })
+        $(this).addClass('active');
+      
+        var target = this.hash,
+            menu = target;
+        $target = $(target);
+        $('html, body').stop().animate({
+            'scrollTop': $target.offset().top+2
+        }, 300, 'swing', function () {
+            window.location.hash = target;
+            $(document).on("scroll", onScroll);
+        });
+    });
   });
+
+  function onScroll(event){
+    var scrollPos = $(document).scrollTop();
+    console.log(scrollPos)
+    $('.nav-menu-item a').each(function () {
+      var currLink = $(this);
+      var refElement = $(currLink.attr("href"));
+      if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+        $('.nav-menu-item a').removeClass("active");
+        currLink.addClass("active");
+      }
+      else{
+        currLink.removeClass("active");
+      }
+    });
+  }
   
-
-
-  
-
 </script>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-43779642-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];

@@ -62,26 +62,27 @@ a {
       font-size: 14px;
       list-style: none;
       color: #999999;
-      padding: 0 32px;
       position: relative;
       a {
         display: block;
         color: inherit;
-      }
+        padding: 0 32px;
+        transition: all 0.1s ease-in-out;
 
-      &:hover, &.active {
-        background: rgba(255, 255, 255, 0.05);
-        color: white;
-      }
+        &:hover, &.active {
+          background: rgba(255, 255, 255, 0.05);
+          color: white;
+        }
 
-      &.active::before {
-        content: ' ';
-        position: absolute;
-        left: 0;
-        width: 4px;
-        top: 14px;
-        bottom: 14px;
-        background: #F1403C;
+        &.active::before {
+          content: ' ';
+          position: absolute;
+          left: 0;
+          width: 4px;
+          top: 14px;
+          bottom: 14px;
+          background: #F1403C;
+        }
       }
     }
   }
