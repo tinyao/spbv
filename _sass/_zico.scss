@@ -91,9 +91,8 @@ a {
 
 .main {
   margin-left: 240px;
-  padding: 40px;
 
-  .content {
+  .container {
     margin: 0 auto;
     max-width: 1080px;
     width: 100%;
@@ -186,9 +185,15 @@ a {
   display: none;
 }
 
+.site-footer {
+  background: $sidebarBackground;
+  margin-left: 240px;
+  overflow: hidden;
+}
+
 @media (min-width: 992px) {
   .main {
-    padding: 10px 30px;
+    padding: 20px;
   }
 }
 
@@ -198,7 +203,9 @@ a {
   }
   .main {
     margin-left: 200px;
-    padding: 10px 30px;
+    .container {
+      padding: 10px 30px;
+    }
   }
 }
 
@@ -209,10 +216,10 @@ a {
   }
   .main {
     margin-left: 0;
-    padding: 15px;
-
-    .content {
-      margin-top: 55px;
+    
+    .container {
+      padding: 15px;
+      padding-top: 55px;
     }
   }
 

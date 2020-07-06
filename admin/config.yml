@@ -13,7 +13,7 @@ collections:
         name: "navs"
         file: "_data/navs.yml"
         fields:
-          - label: "Groups"
+          - label: "Group"
             name: "items"
             widget: "list"
             fields:

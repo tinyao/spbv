@@ -10,10 +10,11 @@ layout: default
 <div>
   {% include sidebar.html %}
   <div class="main">
-    <div class="content">
+    <div class="container">
     {% for group in site.data.navs.items %}
       {% include group.html group=group %}
     {% endfor %}
     </div>
   </div>
+  {% include footer.html %}
 </div>
