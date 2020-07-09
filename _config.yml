@@ -15,6 +15,7 @@ logo: /assets/img/logo.svg
 
 # 样式资源主地址
 qiniu: /
+oss: https://maotang.oss-cn-beijing.aliyuncs.com/spdl
 # UGC资源地址
 qiniu_upload: http://7xkw3c.com1.z0.glb.clouddn.com/upload/
 
