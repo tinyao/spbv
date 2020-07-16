@@ -37,7 +37,7 @@ a {
   left: 0;
   bottom: -100px;
   background-color: $sidebarBackground;
-  padding: 31px 0;
+  padding: 50px 0;
   text-align: center;
 
   .nav-logo {
@@ -130,6 +130,7 @@ a {
     .icon {
       width: 32px;
       height: 32px;
+      border-radius: 32px;
       background-size: cover;
       background-position: center;
       float: left;
@@ -157,9 +158,11 @@ a {
       min-height: 40px;
     }
 
-    &.tutorial {
+    &.tutorial, &.device {
       min-height: 212px;
-      .icon {
+      .cover {
+        background-size: cover;
+        background-position: center;
         width: 100%;
         height: 120px;
         float: unset;
@@ -178,6 +181,10 @@ a {
       .description {
       }
     }
+    
+    &.device {
+      min-height: auto;
+    }
   }
 }
 
@@ -189,27 +196,42 @@ a {
   margin-top: 20px;
   background: #000;
   margin-left: 240px;
-  overflow: hidden;
   font-size: 12px;  
   text-align: center;
-  padding: 50px 0 !important;
+  padding: 50px 0 40px 0 !important;
 
   .actions {
     margin: 0 auto;
     max-width: 800px;
-    overflow: hidden;
   }
   .action {
     text-align: center;
     width: 33%;
     float: left;
+    position: relative;
     .icon {
       margin-bottom: 5px;
     }
   }
 
+  .action {
+    .qrcode {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 120px;
+      top: -140px;
+      display: none;
+    }
+    &:hover {
+      .qrcode {
+        display: block;
+      }
+    }
+  }
+
   .footer-text {
-    margin-top: 30px;
+    margin-top: 50px;
     color: #808080;
     p {
       margin: 0 0 5px 0;
@@ -245,7 +267,7 @@ a {
     
     .container {
       padding: 15px;
-      padding-top: 55px;
+      padding-top: 65px;
     }
   }
 
@@ -271,6 +293,12 @@ a {
           height: 40vw;
         }
       }
+
+      &.tutorial, &.device {
+        .cover {
+          height: 90px;
+        }
+      }
     }
   }
 
@@ -281,12 +309,12 @@ a {
     display: block;
     z-index: 100;
     width: 100%;
+    text-align: center;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,0.20);
     .logo {
-      width: 36px;
-      height: 36px;
+      width: 167px;
+      height: 28px;
       margin: 12px 0;
-      float: left;
     }
     .title {
       font-size: 13px;
@@ -300,4 +328,8 @@ a {
     padding: 0 20px;
   }
 
+}
+
+.clear {
+  clear: both;
 }

@@ -3,13 +3,19 @@
   <div class="items">
     <div class="row">
       {% for item in include.group.links %}
-        <div class="col-md-6 col-lg-4 col-xl-3">
           {% if item.type == "tutorial" %}
-            {% include item-tutorial.html item=item %}
+            <div class="col-6 col-md-6 col-lg-4 col-xl-3">
+              {% include item-tutorial.html item=item %}
+            </div>
+          {% elsif item.type == "device" %}
+            <div class="col-6 col-md-6 col-lg-4 col-xl-3">
+            {% include item-device.html item=item %}
+            </div>
           {% else %}
+            <div class="col-md-6 col-lg-4 col-xl-3">
             {% include item.html item=item %}
+            </div>
           {% endif %}
-        </div>
       {% endfor %}
     </div>
   </div>
