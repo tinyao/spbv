@@ -1,5 +1,5 @@
 <a class="item" title="{{ include.item.url }}" href="{{ include.item.url }}" target="_blank">
-  <div class="icon" style="background-image: url({{ include.item.icon | prepend: site.oss }})"></div>
+  <div class="icon" style="background-image: url({{ include.item.icon | prepend: site.oss }}?x-oss-process=image/resize,w_60)"></div>
   <div class="text">
     <div class="name">{{ include.item.name }}</div>
     <div class="description">{{ include.item.description }}</div>

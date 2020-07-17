@@ -156,7 +156,7 @@ items:
         url: https://www.musicbed.com/
         description: 电影级音乐品质的素材站，订阅价格适中，有版权保障
       - name: Epidemic Sound
-        icon: /image/Epidemic Sound.jpg
+        icon: /image/epidemic-sound.jpg
         url: https://www.epidemicsound.com/
         description: 可免费听&下载，使用需要付费
       - name: Pond5
