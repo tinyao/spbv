@@ -159,7 +159,6 @@ a {
     }
 
     &.tutorial, &.device {
-      min-height: 212px;
       .cover {
         background-size: cover;
         background-position: center;
@@ -175,16 +174,13 @@ a {
       .name {
         overflow: hidden;
         display: -webkit-box;
-        -webkit-line-clamp: 2;
+        -webkit-line-clamp: 1;
         -webkit-box-orient: vertical;
       }
       .description {
       }
     }
     
-    &.device {
-      min-height: auto;
-    }
   }
 }
 
@@ -297,6 +293,9 @@ a {
       &.tutorial, &.device {
         .cover {
           height: 90px;
+        }
+        .description {
+          min-height: 40px;
         }
       }
     }
