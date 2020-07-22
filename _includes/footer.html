@@ -66,7 +66,6 @@
 
   function onScroll(event){
     var scrollPos = $(document).scrollTop();
-    console.log(scrollPos)
     $('.nav-menu-item a').each(function () {
       var currLink = $(this);
       var refElement = $(currLink.attr("href"));
@@ -82,18 +81,12 @@
   
 </script>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-43779642-3"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-43779642-3');
-
-  var captureOutboundLink = function(url) {
-   ga('send', 'event', 'outbound', 'click', url, {
-     'transport': 'beacon',
-     'hitCallback': function(){document.location = url;}
-   });
-  }
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?8ac16f5819127353437c2ba2e23d8044";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+  })();
 </script>
