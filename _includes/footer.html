@@ -62,6 +62,15 @@
             $(document).on("scroll", onScroll);
         });
     });
+
+    $("#link").on('click', function(e) {
+      var c='访问网址';
+      var l=$(this).attr('href');
+      console.log(c)
+      console.log(l)
+      _hmt.push(['_trackEvent',c,'click',l]);
+    });
+
   });
 
   function onScroll(event){
