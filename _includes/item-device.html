@@ -1,4 +1,4 @@
-<a class="item device" title="{{ include.item.url }}" href="{{ include.item.url }}" target="_blank">
+<a class="item device" title="{{ include.item.url }}" href="{{ include.item.url }}" target="_blank" onclick="captureOutboundLink('{{ include.item.url }}'); return false;">
   <div class="cover" style="background-image: url({{ include.item.icon | prepend: site.oss}})"></div>
   <div class="text">
     <div class="name">{{ include.item.name }}</div>
