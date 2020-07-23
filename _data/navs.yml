@@ -3,318 +3,318 @@ items:
     groupId: group-1
     links:
       - name: Adobe Premiere
-        icon: /image/adobe-premiere-pro.jpg
+        icon: /items/adobe-premiere-pro.jpg
         url: https://www.adobe.com/cn/products/premiere.html
         description: Adobe出品的专业剪辑软件
       - name: Adobe Affect Effects
-        icon: /image/adobe-after-effects.jpg
+        icon: /items/adobe-after-effects.jpg
         url: https://www.adobe.com/cn/products/aftereffects.html
         description: Adobe出品的专业特效制作软件
       - name: Final Cut Pro
-        icon: /image/final-cut-pro.jpg
+        icon: /items/final-cut-pro.jpg
         url: https://www.apple.com.cn/final-cut-pro/
         description: 专业剪辑软件，Apple出品
       - name: 达芬奇 (DaVinci Resolve)
-        icon: /image/达芬奇.jpg
+        icon: /items/达芬奇.jpg
         url: http://www.blackmagicdesign.com/cn/products/davinciresolve/
         description: 电影级剪辑软件，BlackMagic出品
       - name: Vegas
-        icon: /image/vegas.jpg
+        icon: /items/vegas.jpg
         url: https://www.vegaschina.cn/
         description: 进阶剪辑软件，无限轨音视频，音频编辑能力强大
       - name: 剪映
-        icon: /image/剪映.jpg
+        icon: /items/剪映.jpg
         url: https://lv.ulikecam.com/
         description: 支持剪同款，音乐、转场特效丰富，抖音出品
       - name: VUE Vlog
-        icon: /image/VUE.jpg
+        icon: /items/VUE.jpg
         url: https://vuevideo.net/
         description: 应用内以电影滤镜闻名，主打VLOG剪辑
       - name: GoPro
-        icon: /image/gopro.jpg
+        icon: /items/gopro.jpg
         url: https://gopro.com/zh/cn/shop/softwareandapp
         description: 除了能连接GoPro，还支持一键生成精彩视频
       - name: 会声会影
-        icon: /image/会声会影.jpg
+        icon: /items/会声会影.jpg
         url: https://www.huishenghuiying.com.cn/
         description: 入门剪辑软件，预设模版丰富
       - name: 爱剪辑
-        icon: /image/爱剪辑.jpg
+        icon: /items/爱剪辑.jpg
         url: http://www.aijianji.com/index.htm
         description: 入门剪辑软件
   - groupName: 辅助工具
     groupId: group-2
     links:
       - name: 视频大拍档
-        icon: /image/视频大拍档.jpg
+        icon: /items/视频大拍档.jpg
         url: http://spdpd.net/
         description: 应用内剪辑辅助软件，支持格式转换、无版权音乐下载、各种特效/插件/小工具、清理Pr&FCPX缓存
       - name: 班迪录屏
-        icon: /image/班迪录屏（bandicam）.jpg
+        icon: /items/班迪录屏（bandicam）.jpg
         url: https://www.bandicam.cn/
         description: 免费/支持游戏/屏幕/外设录制，简单易用，免费版支持10分钟录制，带水印；付费版¥249起
       - name: OBS
-        icon: /image/OBS.jpg
+        icon: /items/OBS.jpg
         url: https://obsproject.com/
         description: 广泛用于直播投屏，同时也支持屏幕录制，功能强大但有学习成本
       - name: Loopback
-        icon: /image/Loopback.jpg
+        icon: /items/Loopback.jpg
         url: https://rogueamoeba.com/loopback/
         description: 配合QuickTime Player可以内录Mac的声音
       - name: 墨灵音乐
-        icon: /image/墨灵音乐.jpg
+        icon: /items/墨灵音乐.jpg
         url: https://music.qugeek.com/
         description: 找个音乐没有这么难，在线下载音乐
       - name: BitDownloader
-        icon: /image/BitDownloader.jpg
+        icon: /items/BitDownloader.jpg
         url: https://bitdownloader.com/
         description: 下载YouTube、Twitter上的视频
       - name: GFXCAMP
-        icon: /image/GFXCAMP.jpg
+        icon: /items/GFXCAMP.jpg
         url: http://www.gfxcamp.com/
         description: 免费/拥有丰富的AR、Pr模版，FCPX插件
   - groupName: 视频素材
     groupId: group-3
     links:
       - name: Pexels
-        icon: /image/Pexels.jpg
+        icon: /items/Pexels.jpg
         url: https://www.pexels.com/
         description: 全球最大的免费视频素材库之一，素材质量无可挑剔
       - name: Videvo
-        icon: /image/Videvo.jpg
+        icon: /items/Videvo.jpg
         url: https://www.videvo.net/
         description: 拥有丰富的4k摄影素材、影视片段、音乐音效
       - name: Mazwai
-        icon: /image/Mazwai.jpg
+        icon: /items/Mazwai.jpg
         url: https://mazwai.com/
         description: 摄影爱好者上传素材的网站，素材质量非常高
       - name: coverr
-        icon: /image/coverr.jpg
+        icon: /items/coverr.jpg
         url: https://coverr.co/
         description: 素材偏向食物、人物、风景、城市...分类细致、种类齐全
       - name: VCG
-        icon: /image/vcg-logo.jpg
+        icon: /items/vcg-logo.jpg
         url: https://www.vcg.com/
         description: 视觉中国旗下的素材站，包含视频、图片、icon、音乐素材
       - name: Life of Vids
-        icon: /image/lifeofvids-logo.jpg
+        icon: /items/lifeofvids-logo.jpg
         url: https://www.lifeofvids.com/
         description: 视频素材偏向生活化，由加拿大对创意工作室LEEROY创建
       - name: 新CG儿
-        icon: /image/新CG儿.jpg
+        icon: /items/新CG儿.jpg
         url: https://www.newcger.com
         description: 拥有海量的AE特效素材，标签丰富，搜索便捷
       - name: Ignite Motion
-        icon: /image/ignite-motion.jpg
+        icon: /items/ignite-motion.jpg
         url: http://www.ignitemotion.com/
         description: 背景动画视频，题材多以太空科幻为主
       - name: ShutterStock
-        icon: /image/shutterstock.jpg
+        icon: /items/shutterstock.jpg
         url: https://www.shutterstock.com/zh/video
         description: 全球最大的设计素材站之一，想要的内容应有尽有
       - name: VJ师网
-        icon: /image/VJ师.jpg
+        icon: /items/VJ师.jpg
         url: https://www.vjshi.com/
         description: 视频素材站、AE特效、Pr模版、3D模型都很丰富
       - name: 新片场
-        icon: /image/新片场.jpg
+        icon: /items/新片场.jpg
         url: https://www.xinpianchang.com/
         description: 版权资源站，拥有电影级的影视、音乐、AE素材
   - groupName: 音乐素材
     groupId: group-4
     links:
       - name: ccMixter
-        icon: /image/ccmixter.jpg
+        icon: /items/ccmixter.jpg
         url: http://dig.ccmixter.org/
         description: 众多创作者热捧的网站，专注于视频、游戏的背景音乐库
       - name: FMA
-        icon: /image/FMA.jpg
+        icon: /items/FMA.jpg
         url: https://freemusicarchive.org/
         description: 全球最大的无版权音乐库之一，放心使用，仅支持英文搜索
       - name: YouTube audiolibrary
-        icon: /image/youtube-audiolibrary.jpg
+        icon: /items/youtube-audiolibrary.jpg
         url: https://www.youtube.com/audiolibrary
         description: 音乐人向 YouTube 提交的无版权音乐音效，需要梯子
       - name: FreePD
-        icon: /image/FreePD.jpg
+        icon: /items/FreePD.jpg
         url: https://freepd.com/
         description: 汇集了不同类型的免版权海量音乐素材
       - name: Bensound
-        icon: /image/Bensound.jpg
+        icon: /items/Bensound.jpg
         url: https://www.bensound.com/
         description: 免费/法国作曲家 Benjamin TISSOT 创办，质量很高，作品被广泛用户动画、广告、宣传片等项目中
       - name: Audio jungle
-        icon: /image/audiojungle.jpg
+        icon: /items/audiojungle.jpg
         url: https://audiojungle.net/
         description: ENVATO MARKET旗下知名音乐、音效素材站，素材全且精
       - name: Premium Beat
-        icon: /image/premium-beat.jpg
+        icon: /items/premium-beat.jpg
         url: https://www.premiumbeat.com/
         description: ShutterStock出品，音乐质量非常高，单曲购买
       - name: MUSICBED
-        icon: /image/MusicBed.jpg
+        icon: /items/MusicBed.jpg
         url: https://www.musicbed.com/
         description: 电影级音乐品质的素材站，订阅价格适中，有版权保障
       - name: Epidemic Sound
-        icon: /image/epidemic-sound.jpg
+        icon: /items/epidemic-sound.jpg
         url: https://www.epidemicsound.com/
         description: 可免费听&下载，使用需要付费
       - name: Pond5
-        icon: /image/Pond5.jpg
+        icon: /items/Pond5.jpg
         url: https://www.pond5.com/
         description: 适合企业使用，商业版权较便宜
       - name: icon8 music
-        icon: /image/icons8.jpg
+        icon: /items/icons8.jpg
         url: https://icons8.com/music
         description: icon8出品，音乐标签分类清晰，仅支持英文搜索
   - groupName: 音效素材
     groupId: group-5
     links:
       - name: 爱给网
-        icon: /image/爱给网logo.jpg
+        icon: /items/爱给网logo.jpg
         url: http://www.aigei.com/sound/
         description: “专注免费素材”！除了音效，这里还能找到配乐、视频素材
       - name: 耳聆网
-        icon: /image/耳聆网.jpg
+        icon: /items/耳聆网.jpg
         url: https://www.ear0.com/
         description: 国内老牌音频网站，音频质量高，但更新速度较慢
       - name: Soundgator
-        icon: /image/soundGator.jpg
+        icon: /items/soundGator.jpg
         url: http://www.soundgator.com/
         description: 音效素材第一站，拥有各种常见场景的音效，找音效来这里就对了
   - groupName: 图片素材
     groupId: group-6
     links:
       - name: Unsplash
-        icon: /image/unsplash.jpg
+        icon: /items/unsplash.jpg
         url: https://unsplash.com/
         description: 摄影师作品分享平台，照片质量超高，壁纸级的表现
       - name: Pixabay
-        icon: /image/pixabay.jpg
+        icon: /items/pixabay.jpg
         url: https://pixabay.com/
         description: 全球最大的免费图库之一，百万张高清图片供你选择
       - name: 发表情
-        icon: /image/发表情.jpg
+        icon: /items/发表情.jpg
         url: https://www.fabiaoqing.com/
         description: 非常贴心的把表情都整理成专题，支持在线制作表情
       - name: GIPHY
-        icon: /image/giphy.jpg
+        icon: /items/giphy.jpg
         url: https://giphy.com/
         description: 全球最大的免费GIF图库
       - name: 图怪兽
-        icon: /image/图怪兽.jpg
+        icon: /items/图怪兽.jpg
         url: https://818ps.com/
         description: 支持模版创作，导入素材一键生成
       - name: PNG素材库
-        icon: /image/pngimg.jpg
+        icon: /items/pngimg.jpg
         url: http://pngimg.com/
         description: 最知名的PNG优质素材库
       - name: stockio
-        icon: /image/stockio.jpg
+        icon: /items/stockio.jpg
         url: https://www.stockio.com/
         description: 收录了大量的摄影图、矢量图、icon、字体
       - name: SplitShire
-        icon: /image/SplitShire.jpg
+        icon: /items/SplitShire.jpg
         url: https://www.splitshire.com/
         description: 可商用｜顶级摄影师创作的图片、视频素材库
       - name: Foodies Feed
-        icon: /image/Foodies-Feed.jpg
+        icon: /items/Foodies-Feed.jpg
         url: https://www.foodiesfeed.com/
         description: 专攻食物图片的素材网站
       - name: StickPNG
-        icon: /image/stick-png.jpg
+        icon: /items/stick-png.jpg
         url: https://www.stickpng.com/
         description: 拥有大量的app图标png素材，以及当前热门的png素材
   - groupName: 字体素材
     groupId: group-7
     links:
       - name: 字由
-        icon: /image/字由.jpg
+        icon: /items/字由.jpg
         url: https://www.hellofont.cn/
         description: 免费/设计师必备字体利器，千款不同风格字体等你发现
       - name: 字体天下
-        icon: /image/字体天下.jpg
+        icon: /items/字体天下.jpg
         url: http://www.fonts.net.cn/
         description: 免费/百款免费商用字体、电商限定免费字体，及海量付费字体
       - name: 阿里巴巴普惠体
-        icon: /image/阿里巴巴普惠体.jpg
+        icon: /items/阿里巴巴普惠体.jpg
         url: https://alibabafont.taobao.com/wow/alibabafont/act/alifont
         description: 免费可商用字体｜由阿里巴巴设计，中文5款自重，西文11款字重
       - name: 思源黑体（Google版）
-        icon: /image/思源黑体.jpg
+        icon: /items/思源黑体.jpg
         url: http://www.fonts.net.cn/font-32336210031.html
         description: 免费可商用字体｜Google联合Adobe设计的黑体字体，7款字重
       - name: 优设标题黑
-        icon: /image/优设标题黑.jpg
+        icon: /items/优设标题黑.jpg
         url: https://www.hellofont.cn/font-detail?fontid=7088
         description: 免费可商用字体｜优设网与字由联合发布的针对标题的字体
   - groupName: 字幕处理
     groupId: group-8
     links:
       - name: ArcTime
-        icon: /image/arctime.jpg
+        icon: /items/arctime.jpg
         url: https://arctime.org/
         description: 知名字幕编辑软件，无缝支持所有主流剪辑软件
       - name: 讯飞听见
-        icon: /image/讯飞听见.jpg
+        icon: /items/讯飞听见.jpg
         url: https://www.iflyrec.com/
         description: 网页版｜¥0.33/分钟｜自动生成字幕，带可视化编辑器
       - name: 网易见外工作台
-        icon: /image/网易见外工作台.jpg
+        icon: /items/网易见外工作台.jpg
         url: https://jianwai.youdao.com/
         description: 网页版｜按时长计费｜支持AI生成双语字幕；生肉自动翻译；文档、语音、图片翻译
       - name: 突字幕
-        icon: /image/突字幕.jpg
+        icon: /items/突字幕.jpg
         url: https://2zimu.com/
         description: 网页版｜点数识别中英日文，不限时长，文件最大支持3.9G，可导出SRT文件
       - name: 绘影字幕
-        icon: /image/绘影字幕.jpg
+        icon: /items/绘影字幕.jpg
         url: https://huiying.bluepulse.cn/
         description: App/网页版｜¥0.4/分钟｜支持13种语言，支持生成双语字幕
   - groupName: 音频处理
     groupId: group-9
     links:
       - name: Audio Converter
-        icon: /image/audio-converter.jpg
+        icon: /items/audio-converter.jpg
         url: https://online-audio-converter.com/
         description: 支持在线将视频转为音频
       - name: Moises
-        icon: /image/Moises.jpg
+        icon: /items/Moises.jpg
         url: https://moises.ai/
         description: 在线人声消除，每月免费处理5条5分钟音频
       - name: UTAU
-        icon: /image/UTAU_logo.jpg
+        icon: /items/UTAU_logo.jpg
         url: http://utau.bemanicn.com/
         description: 调音软件
       - name: Melodyne
-        icon: /image/Melodyne.jpg
+        icon: /items/Melodyne.jpg
         url: https://www.celemony.com/en/start
         description: 调音软件
       - name: Audition
-        icon: /image/Audition.jpg
+        icon: /items/Audition.jpg
         url: https://www.adobe.com/cn/products/audition.html
         description: Adobe旗下音频处理软件
       - name: Waves
-        icon: /image/waves.jpg
+        icon: /items/waves.jpg
         url: https://www.waves.com/
         description: 混音软件
   - groupName: 图片处理
     groupId: group-10
     links:
       - name: tinypng
-        icon: /image/tinypng.jpg
+        icon: /items/tinypng.jpg
         url: https://tinypng.com/
         description: 图片无损压缩，设计师最常用网站之一
       - name: Remove Background
-        icon: /image/remove-background.jpg
+        icon: /items/remove-background.jpg
         url: https://www.remove.bg/
         description: 效果极佳的在线抠图工具
       - name: ezGif
-        icon: /image/ezgif.jpg
+        icon: /items/ezgif.jpg
         url: https://ezgif.com/
         description: 强大的GIF在线编辑器，支持压缩、剪裁、增加文字&特效等
       - name: 草料二维码
-        icon: /image/草料二维码.jpg
+        icon: /items/草料二维码.jpg
         url: https://cli.im/
         description: 二维码生成器，支持将网址、文件、图片、微信等物料转化成二维码
   - groupName: 入门教程
@@ -322,56 +322,56 @@ items:
     links:
       - name: 影视飓风：一小时上手达芬奇剪辑
         type: tutorial
-        icon: /image/davinci-tutorial.jpg
+        icon: /items/davinci-tutorial.jpg
         url: https://www.bilibili.com/video/BV1B7411A7M1
       - name: "[Pr教程] 0基础急速上手视频制作！UP主必备！"
         type: tutorial
-        icon: /image/pr-tutorial.jpg
+        icon: /items/pr-tutorial.jpg
         url: https://www.bilibili.com/video/BV1Ts411C7Yd
       - name: 从零开始鬼畜
         type: tutorial
-        icon: /image/guichu-tutorial.jpg
+        icon: /items/guichu-tutorial.jpg
         url: https://www.bilibili.com/video/BV1T4411M7qJ
   - groupName: 器材推荐
     groupId: group-12
     links:
       - name: 佳能 EOS M50
         type: device
-        icon: /image/M50.jpg
+        icon: /items/M50.jpg
         url: https://u.jd.com/rzeVb0
         description: 价格亲民的入门微单，vlog首选！
       - name: 索尼 a7m3（Alpha 7 Mark III）
         type: device
-        icon: /image/a7m3.jpg
+        icon: /items/a7m3.jpg
         url: https://u.jd.com/c4A6En
         description: 性价比之王，摄影师/UP主们都在用
       - name: 罗德 Rode Wireless Go
         type: device
-        icon: /image/Rode-Wireless-Go.jpg
+        icon: /items/Rode-Wireless-Go.jpg
         url: https://u.jd.com/DWfhoB
         description: 无线麦，随身携带收声无压力，vlog好伴侣
       - name: 罗德 Rode VideoMicro
         type: device
-        icon: /image/Rode-VideoMicro.jpg
+        icon: /items/Rode-VideoMicro.jpg
         url: https://u.jd.com/IXMZho
         description: 便宜好用的枪头麦，入门首选
       - name: 爱图仕 120D
         type: device
-        icon: /image/爱图仕-120D.jpg
+        icon: /items/爱图仕-120D.jpg
         url: https://u.jd.com/XTcA5z
         description: 选它，补光灯一步到位！
       - name: 神牛 GodOX SL60W
         type: device
-        icon: /image/神牛.jpg
+        icon: /items/神牛.jpg
         url: https://u.jd.com/moKYTb
         description: 便宜噪音小，60瓦亮度够用，适合棚拍
       - name: Fotopro RM-100+ PRO
         type: device
-        icon: /image/Fotopro.jpg
+        icon: /items/Fotopro.jpg
         url: https://u.jd.com/fJYAau
         description: 小巧便携，可以用它摆各种角度的机位
       - name: 国家地理 W5072 摄影包
         type: device
-        icon: /image/NG-W5072-摄影包.jpg
+        icon: /items/NG-W5072-摄影包.jpg
         url: https://u.jd.com/wPsVmU
         description: 好看，除了相机还能装下15寸电脑

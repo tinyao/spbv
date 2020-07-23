@@ -11,11 +11,11 @@ markdown: kramdown
 # 站点信息
 slogan: ""
 qrcode: https://img.mayun.xin/upload/2020031417/8f47db56dd3861351d569e8b19d58dcb.png
-logo: /assets/img/logo.svg
+logo: /assets/images/logo.svg
 
 # 样式资源主地址
 qiniu: /
-oss: https://maotang.oss-cn-beijing.aliyuncs.com/spdl
+oss: /assets/images
 # UGC资源地址
 qiniu_upload: http://7xkw3c.com1.z0.glb.clouddn.com/upload/
 
