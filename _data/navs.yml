@@ -2,10 +2,6 @@ items:
   - groupName: 视频素材
     groupId: group-3
     links:
-      - name: Envato
-        icon: /assets/uploads/04envato.png
-        url: https://elements.envato.com/
-        description: 全球最大的Pr、AE、FCP素材站之一：视频模版、片头、动效贴图应有尽有
       - name: Pexels
         icon: /items/Pexels.jpg
         url: https://www.pexels.com/
@@ -14,14 +10,18 @@ items:
         icon: /items/Videvo.jpg
         url: https://www.videvo.net/
         description: 拥有丰富的4k摄影素材、影视片段、音乐音效
-      - name: Mazwai
-        icon: /items/Mazwai.jpg
-        url: https://mazwai.com/
-        description: 摄影爱好者上传素材的网站，素材质量非常高
+      - name: Envato
+        icon: /assets/uploads/04envato.png
+        url: https://elements.envato.com/
+        description: 付费订阅制｜全球最大的Pr/AE/FCP素材站之一：视频模版、片头、动效贴图应有尽有
       - name: coverr
         icon: /items/coverr.jpg
         url: https://coverr.co/
         description: 素材偏向食物、人物、风景、城市...分类细致、种类齐全
+      - name: Mazwai
+        icon: /items/Mazwai.jpg
+        url: https://mazwai.com/
+        description: 摄影爱好者上传素材的网站，素材质量非常高
       - name: VCG
         icon: /items/vcg-logo.jpg
         url: https://www.vcg.com/
@@ -382,3 +382,14 @@ items:
         icon: /items/NG-W5072-摄影包.jpg
         url: https://u.jd.com/wPsVmU
         description: 好看，除了相机还能装下15寸电脑
+  - groupName: 数据分析
+    groupId: group-12
+    links:
+      - url: https://www.biliob.com/
+        name: BiliOB观测者
+        description: 支持查看B站UP主排行、飙升热门关键词、视频表现等数据
+        icon: /assets/uploads/12biliob观测站.png
+      - url: https://cn.noxinfluencer.com/
+        name: Noxinfluencer
+        description: 海外网红数据平台，支持查看 YouTube / tiktok / ins 的当前热门内容、创作者数据表现
+        icon: /assets/uploads/12noxinfluencer.png
