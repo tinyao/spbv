@@ -1,6 +1,6 @@
 items:
   - groupName: 视频素材
-    groupId: group-3
+    groupId: stock-video
     links:
       - name: Pexels
         icon: /items/Pexels.jpg
@@ -51,7 +51,7 @@ items:
         url: https://www.xinpianchang.com/
         description: 版权资源站，拥有电影级的影视、音乐、AE素材
   - groupName: 音乐素材
-    groupId: group-4
+    groupId: stock-music
     links:
       - name: YouTube audiolibrary
         icon: /items/youtube-audiolibrary.jpg
@@ -98,7 +98,7 @@ items:
         url: https://icons8.com/music
         description: icon8出品，音乐标签分类清晰，仅支持英文搜索
   - groupName: 音效素材
-    groupId: group-5
+    groupId: stock-sound-effect
     links:
       - name: 耳聆网
         icon: /items/耳聆网.jpg
@@ -113,7 +113,7 @@ items:
         url: http://www.soundgator.com/
         description: 音效素材第一站，拥有各种常见场景的音效，找音效来这里就对了
   - groupName: 图片素材
-    groupId: group-6
+    groupId: stock-photo
     links:
       - name: Unsplash
         icon: /items/unsplash.jpg
@@ -156,7 +156,7 @@ items:
         url: https://www.foodiesfeed.com/
         description: 专攻食物图片的素材网站
   - groupName: 字体素材
-    groupId: group-7
+    groupId: stock-font
     links:
       - name: 字由
         icon: /items/字由.jpg
@@ -179,7 +179,7 @@ items:
         url: https://www.hellofont.cn/font-detail?fontid=7088
         description: 免费可商用字体｜优设网与字由联合发布的针对标题的字体
   - groupName: 字幕处理
-    groupId: group-8
+    groupId: tools-subtitle
     links:
       - name: ArcTime
         icon: /items/arctime.jpg
@@ -202,7 +202,7 @@ items:
         url: https://huiying.bluepulse.cn/
         description: App/网页版｜¥0.4/分钟｜支持13种语言，支持生成双语字幕
   - groupName: 音频处理
-    groupId: group-9
+    groupId: tools-audio
     links:
       - name: Audio Converter
         icon: /items/audio-converter.jpg
@@ -229,7 +229,7 @@ items:
         url: https://www.waves.com/
         description: 混音软件
   - groupName: 图片处理
-    groupId: group-10
+    groupId: tools-picture
     links:
       - name: tinypng
         icon: /items/tinypng.jpg
@@ -248,7 +248,7 @@ items:
         url: https://cli.im/
         description: 二维码生成器，支持将网址、文件、图片、微信等物料转化成二维码
   - groupName: 剪辑软件
-    groupId: group-1
+    groupId: software
     links:
       - name: Adobe Premiere
         icon: /items/adobe-premiere-pro.jpg
@@ -291,7 +291,7 @@ items:
         url: http://www.aijianji.com/index.htm
         description: 入门剪辑软件
   - groupName: 辅助工具
-    groupId: group-2
+    groupId: addon
     links:
       - name: 视频大拍档
         icon: /items/视频大拍档.jpg
@@ -322,7 +322,7 @@ items:
         url: http://www.gfxcamp.com/
         description: 免费/拥有丰富的AR、Pr模版，FCPX插件
   - groupName: 入门教程
-    groupId: group-11
+    groupId: tutorials
     links:
       - name: 影视飓风：一小时上手达芬奇剪辑
         type: tutorial
@@ -340,7 +340,7 @@ items:
         url: https://www.bilibili.com/video/BV1T4411M7qJ
         description: 鬼畜入门教程
   - groupName: 器材推荐
-    groupId: group-12
+    groupId: equipment
     links:
       - name: 佳能 EOS M50
         type: device
@@ -383,7 +383,7 @@ items:
         url: https://u.jd.com/wPsVmU
         description: 好看，除了相机还能装下15寸电脑
   - groupName: 数据分析
-    groupId: group-12
+    groupId: analysis
     links:
       - url: https://www.biliob.com/
         name: BiliOB观测者
