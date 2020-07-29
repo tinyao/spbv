@@ -1,6 +1,6 @@
 items:
   - groupName: 视频素材
-    groupId: stock-video
+    groupId: stock-videos
     links:
       - name: Pexels
         icon: /items/Pexels.jpg
@@ -51,7 +51,7 @@ items:
         url: https://www.xinpianchang.com/
         description: 版权资源站，拥有电影级的影视、音乐、AE素材
   - groupName: 音乐素材
-    groupId: stock-music
+    groupId: stock-musics
     links:
       - name: YouTube audiolibrary
         icon: /items/youtube-audiolibrary.jpg
@@ -98,7 +98,7 @@ items:
         url: https://icons8.com/music
         description: icon8出品，音乐标签分类清晰，仅支持英文搜索
   - groupName: 音效素材
-    groupId: stock-sound-effect
+    groupId: stock-sound-effects
     links:
       - name: 耳聆网
         icon: /items/耳聆网.jpg
@@ -113,7 +113,7 @@ items:
         url: http://www.soundgator.com/
         description: 音效素材第一站，拥有各种常见场景的音效，找音效来这里就对了
   - groupName: 图片素材
-    groupId: stock-photo
+    groupId: stock-pictures
     links:
       - name: Unsplash
         icon: /items/unsplash.jpg
@@ -156,7 +156,7 @@ items:
         url: https://www.foodiesfeed.com/
         description: 专攻食物图片的素材网站
   - groupName: 字体素材
-    groupId: stock-font
+    groupId: stock-fonts
     links:
       - name: 字由
         icon: /items/字由.jpg
@@ -247,6 +247,17 @@ items:
         icon: /items/草料二维码.jpg
         url: https://cli.im/
         description: 二维码生成器，支持将网址、文件、图片、微信等物料转化成二维码
+  - groupName: 数据分析
+    groupId: analysis
+    links:
+      - url: https://www.biliob.com/
+        name: BiliOB观测者
+        description: 支持查看B站UP主排行、飙升热门关键词、视频表现等数据
+        icon: /assets/uploads/12biliob观测站.png
+      - url: https://cn.noxinfluencer.com/
+        name: Noxinfluencer
+        description: 海外网红数据平台，支持查看 YouTube / tiktok / ins 的当前热门内容、创作者数据表现
+        icon: /assets/uploads/12noxinfluencer.png
   - groupName: 剪辑软件
     groupId: software
     links:
@@ -291,7 +302,7 @@ items:
         url: http://www.aijianji.com/index.htm
         description: 入门剪辑软件
   - groupName: 辅助工具
-    groupId: addon
+    groupId: add-on
     links:
       - name: 视频大拍档
         icon: /items/视频大拍档.jpg
@@ -340,7 +351,7 @@ items:
         url: https://www.bilibili.com/video/BV1T4411M7qJ
         description: 鬼畜入门教程
   - groupName: 器材推荐
-    groupId: equipment
+    groupId: equipments
     links:
       - name: 佳能 EOS M50
         type: device
@@ -382,14 +393,3 @@ items:
         icon: /items/NG-W5072-摄影包.jpg
         url: https://u.jd.com/wPsVmU
         description: 好看，除了相机还能装下15寸电脑
-  - groupName: 数据分析
-    groupId: analysis
-    links:
-      - url: https://www.biliob.com/
-        name: BiliOB观测者
-        description: 支持查看B站UP主排行、飙升热门关键词、视频表现等数据
-        icon: /assets/uploads/12biliob观测站.png
-      - url: https://cn.noxinfluencer.com/
-        name: Noxinfluencer
-        description: 海外网红数据平台，支持查看 YouTube / tiktok / ins 的当前热门内容、创作者数据表现
-        icon: /assets/uploads/12noxinfluencer.png
