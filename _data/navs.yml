@@ -2,6 +2,10 @@ items:
   - groupName: 视频素材
     groupId: group-3
     links:
+      - name: Envato
+        icon: /assets/uploads/04envato.png
+        url: https://elements.envato.com/
+        description: 全球最大的Pr、AE、FCP素材站之一：视频模版、片头、动效贴图应有尽有
       - name: Pexels
         icon: /items/Pexels.jpg
         url: https://www.pexels.com/
@@ -26,10 +30,6 @@ items:
         icon: /items/lifeofvids-logo.jpg
         url: https://www.lifeofvids.com/
         description: 视频素材偏向生活化，由加拿大对创意工作室LEEROY创建
-      - name: 新CG儿
-        icon: /items/新CG儿.jpg
-        url: https://www.newcger.com
-        description: 拥有海量的AE特效素材，标签丰富，搜索便捷
       - name: Ignite Motion
         icon: /items/ignite-motion.jpg
         url: http://www.ignitemotion.com/
@@ -38,6 +38,10 @@ items:
         icon: /items/shutterstock.jpg
         url: https://www.shutterstock.com/zh/video
         description: 全球最大的设计素材站之一，想要的内容应有尽有
+      - name: 新CG儿
+        icon: /items/新CG儿.jpg
+        url: https://www.newcger.com
+        description: 拥有海量的AE特效素材，标签丰富，搜索便捷
       - name: VJ师网
         icon: /items/VJ师.jpg
         url: https://www.vjshi.com/
