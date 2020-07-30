@@ -127,10 +127,6 @@ items:
         icon: /items/giphy.jpg
         url: https://giphy.com/
         description: 全球最大的免费GIF图库
-      - name: StickPNG
-        icon: /items/stick-png.jpg
-        url: https://www.stickpng.com/
-        description: 拥有大量的app图标png素材，以及当前热门的png素材
       - name: 发表情
         icon: /items/发表情.jpg
         url: https://www.fabiaoqing.com/
@@ -139,6 +135,10 @@ items:
         icon: /items/图怪兽.jpg
         url: https://818ps.com/
         description: 支持模版创作，导入素材一键生成
+      - name: StickPNG
+        icon: /items/stick-png.jpg
+        url: https://www.stickpng.com/
+        description: 拥有大量的app图标png素材，以及当前热门的png素材
       - name: PNG素材库
         icon: /items/pngimg.jpg
         url: http://pngimg.com/
