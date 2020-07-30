@@ -323,7 +323,7 @@ items:
       - name: BitDownloader
         icon: /items/BitDownloader.jpg
         url: https://bitdownloader.com/
-        description: 下载YouTube、Twitter上的视频
+        description: 下载YouTube / Twitter / ins上的视频
       - name: GFXCAMP
         icon: /items/GFXCAMP.jpg
         url: http://www.gfxcamp.com/
