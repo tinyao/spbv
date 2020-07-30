@@ -197,10 +197,6 @@ items:
         icon: /items/突字幕.jpg
         url: https://2zimu.com/
         description: 网页版｜点数识别中英日文，不限时长，文件最大支持3.9G，可导出SRT文件
-      - name: 绘影字幕
-        icon: /items/绘影字幕.jpg
-        url: https://huiying.bluepulse.cn/
-        description: App/网页版｜¥0.4/分钟｜支持13种语言，支持生成双语字幕
   - groupName: 音频处理
     groupId: tools-audio
     links:
