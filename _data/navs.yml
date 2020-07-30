@@ -7,7 +7,7 @@ items:
         url: https://www.pexels.com/
         description: 全球最大的免费视频素材库之一，素材质量无可挑剔
       - name: Envato
-        icon: /assets/uploads/04envato.png
+        icon: /items/04envato.png
         url: https://elements.envato.com/
         description: 全球最大的Pr/AE/FCP素材站之一，模版、片头、动效应有尽有
       - name: ShutterStock
@@ -249,11 +249,11 @@ items:
       - url: https://www.biliob.com/
         name: BiliOB观测者
         description: 支持查看B站UP主排行、飙升热门关键词、视频表现等数据
-        icon: /assets/uploads/12biliob观测站.png
+        icon: /items/12biliob观测站.png
       - url: https://cn.noxinfluencer.com/
         name: Noxinfluencer
         description: 海外网红数据平台，支持查看 YouTube / tiktok / ins 的当前热门内容、创作者数据表现
-        icon: /assets/uploads/12noxinfluencer.png
+        icon: /items/12noxinfluencer.png
   - groupName: 剪辑软件
     groupId: software
     links:
