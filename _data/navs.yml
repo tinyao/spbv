@@ -46,10 +46,6 @@ items:
         icon: /items/lifeofvids-logo.jpg
         url: https://www.lifeofvids.com/
         description: 视频素材偏向生活化，由加拿大对创意工作室LEEROY创建
-      - name: Ignite Motion
-        icon: /items/ignite-motion.jpg
-        url: http://www.ignitemotion.com/
-        description: 背景动画视频，题材多以太空科幻为主
   - groupName: 音乐素材
     groupId: stock-musics
     links:
