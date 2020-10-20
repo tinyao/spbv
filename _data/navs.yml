@@ -129,11 +129,11 @@ items:
       - name: Unsplash
         icon: /items/unsplash.jpg
         url: https://unsplash.com/
-        description: 摄影师作品分享平台，照片质量超高，壁纸级的表现
+        description: 免费｜全球知名摄影师作品分享平台，壁纸级的照片库
       - name: Pixabay
         icon: /items/pixabay.jpg
         url: https://pixabay.com/
-        description: 全球最大的免费图库之一，百万张高清图片供你选择
+        description: 免费｜全球最大的免费图库之一，百万张高清图片供你选择
       - name: GIPHY
         icon: /items/giphy.jpg
         url: https://giphy.com/
