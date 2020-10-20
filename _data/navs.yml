@@ -165,6 +165,10 @@ items:
         icon: /items/字由.jpg
         url: https://www.hellofont.cn/
         description: 免费/付费｜设计师必备字体利器，拥有千款不同风格字体
+      - name: 优设标题黑
+        icon: /items/优设标题黑.jpg
+        url: https://www.hellofont.cn/font-detail?fontid=7088
+        description: 免费可商用｜优设网与字由联合出品的针对标题的字体
       - name: 阿里巴巴普惠体
         icon: /items/阿里巴巴普惠体.jpg
         url: https://alibabafont.taobao.com/wow/alibabafont/act/alifont
@@ -173,10 +177,14 @@ items:
         icon: /items/思源黑体.jpg
         url: http://www.fonts.net.cn/font-32336210031.html
         description: 免费可商用｜Google联合Adobe出品，7级字重
-      - name: 优设标题黑
-        icon: /items/优设标题黑.jpg
-        url: https://www.hellofont.cn/font-detail?fontid=7088
-        description: 免费可商用｜优设网与字由联合出品的针对标题的字体
+      - name: 思源宋体
+        icon: /assets/uploads/08思源宋体.png
+        url: http://www.fonts.net.cn/font-32381422163.html
+        description: 免费可商用｜Adobe出品，7级字重
+      - name: 沐瑶软笔手写体
+        icon: /assets/uploads/08沐瑶.png
+        url: https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html
+        description: 免费可商用｜设计师春颜秋色出品，1级字重
   - groupName: 字幕处理
     groupId: tools-subtitle
     links:
