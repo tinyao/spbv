@@ -35,10 +35,11 @@ a {
   z-index: 200;
   top: 0;
   left: 0;
-  bottom: -100px;
+  bottom: 0;
   background-color: $sidebarBackground;
   padding: 50px 0;
   text-align: center;
+  overflow: scroll;
 
   .nav-logo {
     position: relative;
