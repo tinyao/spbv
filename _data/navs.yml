@@ -5,47 +5,35 @@ items:
       - name: Pexels
         icon: /items/Pexels.jpg
         url: https://www.pexels.com/
-        description: 🆓 全球最大的免费视频素材库之一，素材质量无可挑剔
-      - name: Envato
-        icon: /items/04envato.png
-        url: https://elements.envato.com/
-        description: 全球最大的Pr/AE/FCP素材站之一，模版、片头、动效应有尽有
-      - name: ShutterStock
-        icon: /items/shutterstock.jpg
-        url: https://www.shutterstock.com/zh/video
-        description: 全球最大的设计素材站之一，想要的内容应有尽有
+        description: 免费｜全球最大的摄影图片/视频素材站之一，种类齐全
       - name: Videvo
         icon: /items/Videvo.jpg
         url: https://www.videvo.net/
-        description: 拥有丰富的4k摄影素材、影视片段、音乐音效
-      - name: VCG
-        icon: /items/vcg-logo.jpg
-        url: https://www.vcg.com/
-        description: 视觉中国旗下的素材站，包含视频、图片、icon、音乐素材
-      - name: 新CG儿
-        icon: /items/新CG儿.jpg
-        url: https://www.newcger.com
-        description: 拥有海量的AE特效素材，标签丰富，搜索便捷
-      - name: VJ师网
-        icon: /items/VJ师.jpg
-        url: https://www.vjshi.com/
-        description: 视频素材站、AE特效、Pr模版、3D模型都很丰富
-      - name: 新片场
-        icon: /items/新片场.jpg
-        url: https://www.xinpianchang.com/
-        description: 版权资源站，拥有电影级的影视、音乐、AE素材
-      - name: coverr
-        icon: /items/coverr.jpg
-        url: https://coverr.co/
-        description: 素材偏向食物、人物、风景、城市...分类细致、种类齐全
+        description: 免费｜知名视频素材站，4K摄影、动效素材为主
       - name: Mazwai
         icon: /items/Mazwai.jpg
         url: https://mazwai.com/
-        description: 摄影爱好者上传素材的网站，素材质量非常高
-      - name: Life of Vids
-        icon: /items/lifeofvids-logo.jpg
-        url: https://www.lifeofvids.com/
-        description: 视频素材偏向生活化，由加拿大对创意工作室LEEROY创建
+        description: 免费｜摄影爱好者上传素材的网站，素材质量非常高
+      - name: coverr
+        icon: /items/coverr.jpg
+        url: https://coverr.co/
+        description: 免费｜素材偏向食物、人物、风景、城市...
+      - name: 新CG儿
+        icon: /items/新CG儿.jpg
+        url: https://www.newcger.com
+        description: 免费｜海量的AE特效素材站，标签丰富，搜索便捷
+      - name: 新片场
+        icon: /items/新片场.jpg
+        url: https://www.xinpianchang.com/
+        description: 付费｜版权资源站，拥有电影级的影视、音乐、AE素材
+      - name: Envato
+        icon: /items/04envato.png
+        url: https://elements.envato.com/
+        description: 订阅｜全品类素材站：4K视频/特效/字体/音乐音效...
+      - name: ShutterStock
+        icon: /items/shutterstock.jpg
+        url: https://www.shutterstock.com/zh/video
+        description: 付费｜全球知名设计素材站，商用素材最佳选择
   - groupName: 音乐素材
     groupId: stock-musics
     links:
