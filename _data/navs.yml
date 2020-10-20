@@ -141,7 +141,7 @@ items:
       - name: GIPHY
         icon: /items/giphy.jpg
         url: https://giphy.com/
-        description: 全球最大的免费GIF图库
+        description: 免费｜全球最大的免费GIF图库，各种逗比表情
       - name: PNG素材库
         icon: /items/pngimg.jpg
         url: http://pngimg.com/
