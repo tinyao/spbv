@@ -62,24 +62,24 @@ items:
         url: https://www.shutterstock.com/zh/video
         description: 付费｜全球知名设计素材站，商用素材最佳选择
   - groupName: 音乐素材
-    groupId: stock-musics
+    groupId: Stock_Musics
     links:
-      - name: YouTube audiolibrary
-        icon: /items/youtube-audiolibrary.jpg
-        url: https://www.youtube.com/audiolibrary
-        description: 音乐人向 YouTube 提交的无版权音乐音效，需要梯子
       - name: ccMixter
         icon: /items/ccmixter.jpg
         url: http://dig.ccmixter.org/
-        description: 众多创作者热捧的网站，专注于视频、游戏的背景音乐库
+        description: 免费｜创作者热捧的音频站，专注于视频、游戏的BGM
+      - name: YouTube 音频库
+        icon: /items/youtube-audiolibrary.jpg
+        url: https://www.youtube.com/audiolibrary
+        description: 音乐人向 YouTube 提交的无版权音乐音效，需要梯子
       - name: FMA
         icon: /items/FMA.jpg
         url: https://freemusicarchive.org/
-        description: 全球最大的无版权音乐库之一，放心使用，仅支持英文搜索
+        description: 免费｜全球最大的无版权音乐库之一，放心使用
       - name: FreePD
         icon: /items/FreePD.jpg
         url: https://freepd.com/
-        description: 汇集了不同类型的免版权海量音乐素材
+        description: 免费｜汇集了不同类型的免版权海量音乐素材
       - name: Bensound
         icon: /items/Bensound.jpg
         url: https://www.bensound.com/
