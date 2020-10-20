@@ -109,20 +109,20 @@ items:
         url: https://www.pond5.com/
         description: 付费｜适合企业使用，商业版权较便宜
   - groupName: 音效素材
-    groupId: stock-sound-effects
+    groupId: Stock_SoundEffects
     links:
       - name: 耳聆网
         icon: /items/耳聆网.jpg
         url: https://www.ear0.com/
-        description: 国内老牌音频网站，音频质量高，但更新速度较慢
+        description: 免费｜国内老牌音效站，海量无版权音效
       - name: 爱给网
         icon: /items/爱给网logo.jpg
         url: http://www.aigei.com/sound/
-        description: “专注免费素材”！除了音效，这里还能找到配乐、视频素材
+        description: 免费｜需要登陆，除了音效，还能找到配乐、特效素材
       - name: Soundgator
         icon: /items/soundGator.jpg
         url: http://www.soundgator.com/
-        description: 音效素材第一站，拥有各种常见场景的音效，找音效来这里就对了
+        description: 免费｜号称音效素材第一站，拥有各种常见场景的音效
   - groupName: 图片素材
     groupId: stock-pictures
     links:
