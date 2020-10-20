@@ -3,27 +3,27 @@ items:
     groupId: Quick_Start
     links:
       - name: Bilibili 创作中心
-        icon: /assets/uploads/01哔哩哔哩.png
+        icon: /items/01哔哩哔哩.png
         url: https://member.bilibili.com/
         description: 哔哩哔哩 (゜-゜)つロ 干杯~
       - name: YouTube Studio
-        icon: /assets/uploads/01youtube.png
+        icon: /items/01youtube.png
         url: https://studio.youtube.com/
         description: Broadcast Yourself
       - name: 抖音创作服务平台
-        icon: /assets/uploads/01抖音.png
+        icon: /items/01抖音.png
         url: https://creator.douyin.com/
         description: 记录美好生活
       - name: 快手创作者服务平台
-        icon: /assets/uploads/01快手.png
+        icon: /items/01快手.png
         url: https://cp.kuaishou.com/
         description: 记录世界记录你
       - url: https://studio.ixigua.com
         name: 西瓜创作平台
-        icon: /assets/uploads/01西瓜.png
+        icon: /items/01西瓜.png
         description: 点亮对生活的好奇心
       - name: 优酷创作中心
-        icon: /assets/uploads/01优酷.png
+        icon: /items/01优酷.png
         url: https://mp.youku.com/
         description: 这世界很酷
   - groupName: 视频素材
@@ -178,11 +178,11 @@ items:
         url: http://www.fonts.net.cn/font-32336210031.html
         description: 免费可商用｜Google联合Adobe出品，7级字重
       - name: 思源宋体
-        icon: /assets/uploads/08思源宋体.png
+        icon: /items/08思源宋体.png
         url: http://www.fonts.net.cn/font-32381422163.html
         description: 免费可商用｜Adobe出品，7级字重
       - name: 沐瑶软笔手写体
-        icon: /assets/uploads/08沐瑶.png
+        icon: /items/08沐瑶.png
         url: https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html
         description: 免费可商用｜设计师春颜秋色出品，1级字重
   - groupName: 字幕处理
@@ -208,7 +208,7 @@ items:
     groupId: Picture_Edit
     links:
       - name: 图怪兽
-        icon: /assets/uploads/07图怪兽.png
+        icon: /items/07图怪兽.png
         description: 订阅｜封面/宣传图设计，支持模版创作
         url: https://818ps.com/
       - name: tinypng
