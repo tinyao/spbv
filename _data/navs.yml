@@ -155,28 +155,28 @@ items:
         url: https://www.fabiaoqing.com/
         description: 免费｜贴心的把表情都整理成专题，支持在线制作表情
   - groupName: 字体素材
-    groupId: stock-fonts
+    groupId: Stock_Fonts
     links:
-      - name: 字由
-        icon: /items/字由.jpg
-        url: https://www.hellofont.cn/
-        description: 免费/设计师必备字体利器，千款不同风格字体等你发现
       - name: 字体天下
         icon: /items/字体天下.jpg
         url: http://www.fonts.net.cn/
-        description: 免费/百款免费商用字体、电商限定免费字体，及海量付费字体
+        description: 免费/付费｜百款免费商用字体，及海量付费字体
+      - name: 字由
+        icon: /items/字由.jpg
+        url: https://www.hellofont.cn/
+        description: 免费/付费｜设计师必备字体利器，拥有千款不同风格字体
       - name: 阿里巴巴普惠体
         icon: /items/阿里巴巴普惠体.jpg
         url: https://alibabafont.taobao.com/wow/alibabafont/act/alifont
-        description: 免费可商用字体｜由阿里巴巴设计，中文5款自重，西文11款字重
+        description: 免费可商用｜阿里巴巴出品，5级中文、11级英文字重
       - name: 思源黑体（Google版）
         icon: /items/思源黑体.jpg
         url: http://www.fonts.net.cn/font-32336210031.html
-        description: 免费可商用字体｜Google联合Adobe设计的黑体字体，7款字重
+        description: 免费可商用｜Google联合Adobe出品，7级字重
       - name: 优设标题黑
         icon: /items/优设标题黑.jpg
         url: https://www.hellofont.cn/font-detail?fontid=7088
-        description: 免费可商用字体｜优设网与字由联合发布的针对标题的字体
+        description: 免费可商用｜优设网与字由联合出品的针对标题的字体
   - groupName: 字幕处理
     groupId: tools-subtitle
     links:
@@ -196,6 +196,29 @@ items:
         icon: /items/突字幕.jpg
         url: https://2zimu.com/
         description: 网页版｜点数识别中英日文，不限时长，文件最大支持3.9G，可导出SRT文件
+  - groupName: 图片处理
+    groupId: Picture_Edit
+    links:
+      - name: 图怪兽
+        icon: /assets/uploads/07图怪兽.png
+        description: 订阅｜封面/宣传图设计，支持模版创作
+        url: https://818ps.com/
+      - name: tinypng
+        icon: /items/tinypng.jpg
+        url: https://tinypng.com/
+        description: 免费｜图片无损压缩，设计师最常用网站之一
+      - name: Remove Background
+        icon: /items/remove-background.jpg
+        url: https://www.remove.bg/
+        description: 免费/订阅｜效果极佳的在线抠图工具
+      - name: ezGif
+        icon: /items/ezgif.jpg
+        url: https://ezgif.com/
+        description: 免费｜强大的GIF在线编辑器，支持压缩/剪裁/加文字/特效
+      - name: 草料二维码
+        icon: /items/草料二维码.jpg
+        url: https://cli.im/
+        description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
   - groupName: 音频处理
     groupId: tools-audio
     links:
@@ -223,29 +246,6 @@ items:
         icon: /items/waves.jpg
         url: https://www.waves.com/
         description: 混音软件
-  - groupName: 图片处理
-    groupId: Picture_Edit
-    links:
-      - name: 图怪兽
-        icon: /assets/uploads/07图怪兽.png
-        description: 订阅｜封面/宣传图设计，支持模版创作
-        url: https://818ps.com/
-      - name: tinypng
-        icon: /items/tinypng.jpg
-        url: https://tinypng.com/
-        description: 免费｜图片无损压缩，设计师最常用网站之一
-      - name: Remove Background
-        icon: /items/remove-background.jpg
-        url: https://www.remove.bg/
-        description: 免费/订阅｜效果极佳的在线抠图工具
-      - name: ezGif
-        icon: /items/ezgif.jpg
-        url: https://ezgif.com/
-        description: 免费｜强大的GIF在线编辑器，支持压缩/剪裁/加文字/特效
-      - name: 草料二维码
-        icon: /items/草料二维码.jpg
-        url: https://cli.im/
-        description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
   - groupName: 数据分析
     groupId: analysis
     links:
