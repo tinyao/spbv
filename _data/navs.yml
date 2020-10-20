@@ -71,7 +71,7 @@ items:
       - name: YouTube 音频库
         icon: /items/youtube-audiolibrary.jpg
         url: https://www.youtube.com/audiolibrary
-        description: 音乐人向 YouTube 提交的无版权音乐音效，需要梯子
+        description: 免费｜全球音乐人发布在油管上的无版权音乐、音效
       - name: FMA
         icon: /items/FMA.jpg
         url: https://freemusicarchive.org/
