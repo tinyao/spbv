@@ -221,6 +221,10 @@ items:
         icon: /items/pr-tutorial.jpg
         url: https://www.bilibili.com/video/BV1Ts411C7Yd
         description: Pr入门教程
+      - url: https://www.bilibili.com/video/BV1e7411M7Rm
+        description: FCPX 入门教程
+        name: 快速入门 Final Cut Pro X，0 门槛高效率剪辑视频
+        icon: /assets/uploads/qq20201020-143228-2x.png
       - name: 从零开始鬼畜
         type: tutorial
         icon: /items/guichu-tutorial.jpg
