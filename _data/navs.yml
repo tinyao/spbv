@@ -233,19 +233,19 @@ items:
       - name: tinypng
         icon: /items/tinypng.jpg
         url: https://tinypng.com/
-        description: 图片无损压缩，设计师最常用网站之一
+        description: 免费｜图片无损压缩，设计师最常用网站之一
       - name: Remove Background
         icon: /items/remove-background.jpg
         url: https://www.remove.bg/
-        description: 效果极佳的在线抠图工具
+        description: 免费/订阅｜效果极佳的在线抠图工具
       - name: ezGif
         icon: /items/ezgif.jpg
         url: https://ezgif.com/
-        description: 强大的GIF在线编辑器，支持压缩、剪裁、增加文字&特效等
+        description: 免费｜强大的GIF在线编辑器，支持压缩/剪裁/加文字/特效
       - name: 草料二维码
         icon: /items/草料二维码.jpg
         url: https://cli.im/
-        description: 二维码生成器，支持将网址、文件、图片、微信等物料转化成二维码
+        description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
   - groupName: 数据分析
     groupId: analysis
     links:
