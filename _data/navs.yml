@@ -124,7 +124,7 @@ items:
         url: http://www.soundgator.com/
         description: 免费｜号称音效素材第一站，拥有各种常见场景的音效
   - groupName: 图片素材
-    groupId: stock-pictures
+    groupId: Stock_Pictures
     links:
       - name: Unsplash
         icon: /items/unsplash.jpg
