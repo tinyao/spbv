@@ -213,22 +213,22 @@ items:
     links:
       - url: https://www.bilibili.com/video/BV15W411d7eC
         name: 摄影教程｜掌握这5个摄影技巧，1个月内你也能成为摄影达人
-        description: 拍摄入门教程
+        description: "@HusseinsDrama 制作"
         icon: /assets/uploads/位图.jpg
       - name: Pr教程｜0基础急速上手视频制作！UP主必备！
         type: tutorial
         icon: /assets/uploads/位图2.jpg
         url: https://www.bilibili.com/video/BV1Ts411C7Yd
-        description: Pr入门教程
+        description: "@天JIANG 制作"
       - url: https://www.bilibili.com/video/BV1e7411M7Rm
-        description: FCPX 入门教程
+        description: "@Mac云课堂 制作"
         name: FCP教程｜快速入门 Final Cut Pro X，0 门槛高效率剪辑视频
         icon: /assets/uploads/位图3.jpg
-      - name: 影视飓风：一小时上手达芬奇剪辑
+      - name: 达芬奇教程｜【干货】一小时上手达芬奇剪辑！
         type: tutorial
         icon: /assets/uploads/位图4.jpg
         url: https://www.bilibili.com/video/BV1B7411A7M1
-        description: 影视飓风出品
+        description: "@影视飓风 制作"
   - groupName: 剪辑软件
     groupId: Video_Edit
     links:
