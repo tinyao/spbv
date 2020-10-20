@@ -189,7 +189,7 @@ items:
         icon: /items/08沐瑶.png
         url: https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html
         description: 免费可商用｜设计师春颜秋色出品，1级字重
-  - groupName: 字幕处理
+  - groupName: 字幕工具
     groupId: Subtitle_Edit
     links:
       - name: ArcTime
@@ -209,48 +209,40 @@ items:
         url: https://2zimu.com/
         description: 网页｜点数计费｜识别中英日，文件最大支持3.9GB，导出SRT
   - groupName: 剪辑软件
-    groupId: software
+    groupId: Video_Edit
     links:
       - name: Adobe Premiere
         icon: /items/adobe-premiere-pro.jpg
         url: https://www.adobe.com/cn/products/premiere.html
-        description: Adobe出品的专业剪辑软件
+        description: Win/Mac｜订阅｜专业剪辑软件，Adobe出品
       - name: Adobe Affect Effects
         icon: /items/adobe-after-effects.jpg
         url: https://www.adobe.com/cn/products/aftereffects.html
-        description: Adobe出品的专业特效制作软件
+        description: Win/Mac｜订阅｜专业特效制作软件，Adobe出品
       - name: Final Cut Pro
         icon: /items/final-cut-pro.jpg
         url: https://www.apple.com.cn/final-cut-pro/
-        description: 专业剪辑软件，Apple出品
+        description: Mac｜付费｜专业剪辑软件，Apple出品
       - name: 达芬奇 (DaVinci Resolve)
         icon: /items/达芬奇.jpg
         url: http://www.blackmagicdesign.com/cn/products/davinciresolve/
-        description: 电影级剪辑软件，BlackMagic出品
+        description: Win/Mac/Linux｜付费｜电影级剪辑软件，BlackMagic出品
       - name: Vegas
         icon: /items/vegas.jpg
         url: https://www.vegaschina.cn/
-        description: 进阶剪辑软件，无限轨音视频，音频编辑能力强大
-      - name: 剪映
-        icon: /items/剪映.jpg
-        url: https://lv.ulikecam.com/
-        description: 支持剪同款，音乐、转场特效丰富，抖音出品
-      - name: VUE Vlog
-        icon: /items/VUE.jpg
-        url: https://vuevideo.net/
-        description: 应用内以电影滤镜闻名，主打VLOG剪辑
-      - name: GoPro
-        icon: /items/gopro.jpg
-        url: https://gopro.com/zh/cn/shop/softwareandapp
-        description: 除了能连接GoPro，还支持一键生成精彩视频
-      - name: 会声会影
-        icon: /items/会声会影.jpg
-        url: https://www.huishenghuiying.com.cn/
-        description: 入门剪辑软件，预设模版丰富
+        description: Win｜付费｜进阶剪辑软件，无限轨音视频，音频编辑能力强
       - name: 爱剪辑
         icon: /items/爱剪辑.jpg
         url: http://www.aijianji.com/index.htm
-        description: 入门剪辑软件
+        description: Win｜免费｜入门剪辑软件
+      - name: 会声会影
+        icon: /items/会声会影.jpg
+        url: https://www.huishenghuiying.com.cn/
+        description: Win｜付费｜入门剪辑软件，预设模版丰富
+      - name: VUE Vlog
+        icon: /items/VUE.jpg
+        url: https://vuevideo.net/
+        description: App｜应用内付费｜以电影滤镜闻名，主打VLOG剪辑
   - groupName: 音频处理
     groupId: Audio_Edit
     links:
@@ -301,8 +293,8 @@ items:
         icon: /items/草料二维码.jpg
         url: https://cli.im/
         description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
-  - groupName: 辅助工具
-    groupId: plugin
+  - groupName: 效率工具
+    groupId: Plugin
     links:
       - name: 视频大拍档
         icon: /items/视频大拍档.jpg
