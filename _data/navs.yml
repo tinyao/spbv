@@ -208,67 +208,6 @@ items:
         icon: /items/突字幕.jpg
         url: https://2zimu.com/
         description: 网页｜点数计费｜识别中英日，文件最大支持3.9GB，导出SRT
-  - groupName: 图片处理
-    groupId: Picture_Edit
-    links:
-      - name: 图怪兽
-        icon: /items/07图怪兽.png
-        description: 订阅｜封面/宣传图设计，支持模版创作
-        url: https://818ps.com/
-      - name: tinypng
-        icon: /items/tinypng.jpg
-        url: https://tinypng.com/
-        description: 免费｜图片无损压缩，设计师最常用网站之一
-      - name: Remove Background
-        icon: /items/remove-background.jpg
-        url: https://www.remove.bg/
-        description: 免费/订阅｜效果极佳的在线抠图工具
-      - name: ezGif
-        icon: /items/ezgif.jpg
-        url: https://ezgif.com/
-        description: 免费｜强大的GIF在线编辑器，支持压缩/剪裁/加文字/特效
-      - name: 草料二维码
-        icon: /items/草料二维码.jpg
-        url: https://cli.im/
-        description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
-  - groupName: 音频处理
-    groupId: Audio_Edit
-    links:
-      - name: Audio Converter
-        icon: /items/audio-converter.jpg
-        url: https://online-audio-converter.com/
-        description: 免费｜在线将视频转为音频
-      - name: Moises
-        icon: /items/Moises.jpg
-        url: https://moises.ai/
-        description: 免费/订阅｜在线人声消除，每月免费处理20分钟音频
-      - name: Audition
-        icon: /items/Audition.jpg
-        url: https://www.adobe.com/cn/products/audition.html
-        description: 订阅制｜Win/Mac｜Adobe旗下音频处理软件
-      - name: UTAU
-        icon: /items/UTAU_logo.jpg
-        url: http://utau.bemanicn.com/
-        description: 免费｜歌声合成软件
-      - name: Melodyne
-        icon: /items/Melodyne.jpg
-        url: https://www.celemony.com/en/start
-        description: 付费｜调音软件
-      - name: Waves
-        icon: /items/waves.jpg
-        url: https://www.waves.com/
-        description: 付费｜混音软件
-  - groupName: 数据分析
-    groupId: analysis
-    links:
-      - url: https://www.biliob.com/
-        name: BiliOB观测者
-        description: 支持查看B站UP主排行、飙升热门关键词、视频表现等数据
-        icon: /items/12biliob观测站.png
-      - url: https://cn.noxinfluencer.com/
-        name: Noxinfluencer
-        description: 海外网红数据平台，支持查看 YouTube / tiktok / ins 的当前热门内容、创作者数据表现
-        icon: /items/12noxinfluencer.png
   - groupName: 剪辑软件
     groupId: software
     links:
@@ -343,6 +282,67 @@ items:
         icon: /items/GFXCAMP.jpg
         url: http://www.gfxcamp.com/
         description: 免费/拥有丰富的AR、Pr模版，FCPX插件
+  - groupName: 音频处理
+    groupId: Audio_Edit
+    links:
+      - name: Audio Converter
+        icon: /items/audio-converter.jpg
+        url: https://online-audio-converter.com/
+        description: 免费｜在线将视频转为音频
+      - name: Moises
+        icon: /items/Moises.jpg
+        url: https://moises.ai/
+        description: 免费/订阅｜在线人声消除，每月免费处理20分钟音频
+      - name: Audition
+        icon: /items/Audition.jpg
+        url: https://www.adobe.com/cn/products/audition.html
+        description: 订阅制｜Win/Mac｜Adobe旗下音频处理软件
+      - name: UTAU
+        icon: /items/UTAU_logo.jpg
+        url: http://utau.bemanicn.com/
+        description: 免费｜歌声合成软件
+      - name: Melodyne
+        icon: /items/Melodyne.jpg
+        url: https://www.celemony.com/en/start
+        description: 付费｜调音软件
+      - name: Waves
+        icon: /items/waves.jpg
+        url: https://www.waves.com/
+        description: 付费｜混音软件
+  - groupName: 图片处理
+    groupId: Picture_Edit
+    links:
+      - name: 图怪兽
+        icon: /items/07图怪兽.png
+        description: 订阅｜封面/宣传图设计，支持模版创作
+        url: https://818ps.com/
+      - name: tinypng
+        icon: /items/tinypng.jpg
+        url: https://tinypng.com/
+        description: 免费｜图片无损压缩，设计师最常用网站之一
+      - name: Remove Background
+        icon: /items/remove-background.jpg
+        url: https://www.remove.bg/
+        description: 免费/订阅｜效果极佳的在线抠图工具
+      - name: ezGif
+        icon: /items/ezgif.jpg
+        url: https://ezgif.com/
+        description: 免费｜强大的GIF在线编辑器，支持压缩/剪裁/加文字/特效
+      - name: 草料二维码
+        icon: /items/草料二维码.jpg
+        url: https://cli.im/
+        description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
+  - groupName: 数据分析
+    groupId: analysis
+    links:
+      - url: https://www.biliob.com/
+        name: BiliOB观测者
+        description: 支持查看B站UP主排行、飙升热门关键词、视频表现等数据
+        icon: /items/12biliob观测站.png
+      - url: https://cn.noxinfluencer.com/
+        name: Noxinfluencer
+        description: 海外网红数据平台，支持查看 YouTube / tiktok / ins 的当前热门内容、创作者数据表现
+        icon: /items/12noxinfluencer.png
   - groupName: 入门教程
     groupId: tutorials
     links:
