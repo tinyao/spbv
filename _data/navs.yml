@@ -249,7 +249,7 @@ items:
       - name: Melodyne
         icon: /items/Melodyne.jpg
         url: https://www.celemony.com/en/start
-        description: 付费｜专业调音软件
+        description: 付费｜调音软件
       - name: Waves
         icon: /items/waves.jpg
         url: https://www.waves.com/
