@@ -83,7 +83,11 @@ items:
       - name: Bensound
         icon: /items/Bensound.jpg
         url: https://www.bensound.com/
-        description: 免费/法国作曲家 Benjamin TISSOT 创办，质量很高，作品被广泛用户动画、广告、宣传片等项目中
+        description: 免费/付费｜拥有高质量BGM，广泛用于动画/广告/宣传片
+      - name: icon8 music
+        icon: /items/icons8.jpg
+        url: https://icons8.com/music
+        description: 免费/订阅｜icons8旗下音频站，音乐标签分类清晰
       - name: Audio jungle
         icon: /items/audiojungle.jpg
         url: https://audiojungle.net/
@@ -104,10 +108,6 @@ items:
         icon: /items/Pond5.jpg
         url: https://www.pond5.com/
         description: 适合企业使用，商业版权较便宜
-      - name: icon8 music
-        icon: /items/icons8.jpg
-        url: https://icons8.com/music
-        description: icon8出品，音乐标签分类清晰，仅支持英文搜索
   - groupName: 音效素材
     groupId: stock-sound-effects
     links:
