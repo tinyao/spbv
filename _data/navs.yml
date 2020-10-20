@@ -228,32 +228,32 @@ items:
         url: https://cli.im/
         description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
   - groupName: 音频处理
-    groupId: tools-audio
+    groupId: Audio_Edit
     links:
       - name: Audio Converter
         icon: /items/audio-converter.jpg
         url: https://online-audio-converter.com/
-        description: 支持在线将视频转为音频
+        description: 免费｜在线将视频转为音频
       - name: Moises
         icon: /items/Moises.jpg
         url: https://moises.ai/
-        description: 在线人声消除，每月免费处理5条5分钟音频
-      - name: UTAU
-        icon: /items/UTAU_logo.jpg
-        url: http://utau.bemanicn.com/
-        description: 调音软件
-      - name: Melodyne
-        icon: /items/Melodyne.jpg
-        url: https://www.celemony.com/en/start
-        description: 调音软件
+        description: 免费/订阅｜在线人声消除，每月免费处理20分钟音频
       - name: Audition
         icon: /items/Audition.jpg
         url: https://www.adobe.com/cn/products/audition.html
-        description: Adobe旗下音频处理软件
+        description: 订阅制｜Win/Mac｜Adobe旗下音频处理软件
+      - name: UTAU
+        icon: /items/UTAU_logo.jpg
+        url: http://utau.bemanicn.com/
+        description: 免费｜歌声合成软件
+      - name: Melodyne
+        icon: /items/Melodyne.jpg
+        url: https://www.celemony.com/en/start
+        description: 付费｜专业调音软件
       - name: Waves
         icon: /items/waves.jpg
         url: https://www.waves.com/
-        description: 混音软件
+        description: 付费｜混音软件
   - groupName: 数据分析
     groupId: analysis
     links:
