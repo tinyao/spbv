@@ -88,26 +88,26 @@ items:
         icon: /items/icons8.jpg
         url: https://icons8.com/music
         description: 免费/订阅｜icons8旗下音频站，音乐标签分类清晰
-      - name: Audio jungle
-        icon: /items/audiojungle.jpg
-        url: https://audiojungle.net/
-        description: ENVATO MARKET旗下知名音乐、音效素材站，素材全且精
-      - name: Premium Beat
-        icon: /items/premium-beat.jpg
-        url: https://www.premiumbeat.com/
-        description: ShutterStock出品，音乐质量非常高，单曲购买
       - name: MUSICBED
         icon: /items/MusicBed.jpg
         url: https://www.musicbed.com/
-        description: 电影级音乐品质的素材站，订阅价格适中，有版权保障
+        description: 订阅｜电影级品质的音频站，订阅价格适中，有版权保障
+      - name: Audio jungle
+        icon: /items/audiojungle.jpg
+        url: https://audiojungle.net/
+        description: 付费｜envato旗下音频站，BGM/音乐/音效素材全且精
+      - name: Premium Beat
+        icon: /items/premium-beat.jpg
+        url: https://www.premiumbeat.com/
+        description: 付费｜ShutterStock旗下音频站，音乐质量非常高
       - name: Epidemic Sound
         icon: /items/epidemic-sound.jpg
         url: https://www.epidemicsound.com/
-        description: 可免费听&下载，使用需要付费
+        description: 订阅｜可免费听&下载，使用需要付费
       - name: Pond5
         icon: /items/Pond5.jpg
         url: https://www.pond5.com/
-        description: 适合企业使用，商业版权较便宜
+        description: 付费｜适合企业使用，商业版权较便宜
   - groupName: 音效素材
     groupId: stock-sound-effects
     links:
