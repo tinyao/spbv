@@ -150,10 +150,6 @@ items:
         icon: /items/stick-png.jpg
         url: https://www.stickpng.com/
         description: 免费｜拥有海量App图标、当前热门的png、矢量图素材
-      - name: 图怪兽
-        icon: /items/图怪兽.jpg
-        url: https://818ps.com/
-        description: 订阅｜封面/宣传物料设计，支持模版创作
       - name: 发表情
         icon: /items/发表情.jpg
         url: https://www.fabiaoqing.com/
@@ -228,8 +224,12 @@ items:
         url: https://www.waves.com/
         description: 混音软件
   - groupName: 图片处理
-    groupId: tools-picture
+    groupId: Picture_Edit
     links:
+      - name: 图怪兽
+        icon: /assets/uploads/07图怪兽.png
+        description: 订阅｜封面/宣传图设计，支持模版创作
+        url: https://818ps.com/
       - name: tinypng
         icon: /items/tinypng.jpg
         url: https://tinypng.com/
