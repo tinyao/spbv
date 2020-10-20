@@ -142,26 +142,22 @@ items:
         icon: /items/giphy.jpg
         url: https://giphy.com/
         description: 全球最大的免费GIF图库
-      - name: 发表情
-        icon: /items/发表情.jpg
-        url: https://www.fabiaoqing.com/
-        description: 非常贴心的把表情都整理成专题，支持在线制作表情
-      - name: 图怪兽
-        icon: /items/图怪兽.jpg
-        url: https://818ps.com/
-        description: 支持模版创作，导入素材一键生成
-      - name: StickPNG
-        icon: /items/stick-png.jpg
-        url: https://www.stickpng.com/
-        description: 拥有大量的app图标png素材，以及当前热门的png素材
       - name: PNG素材库
         icon: /items/pngimg.jpg
         url: http://pngimg.com/
-        description: 最知名的PNG优质素材库
-      - name: stockio
-        icon: /items/stockio.jpg
-        url: https://www.stockio.com/
-        description: 收录了大量的摄影图、矢量图、icon、字体
+        description: 免费｜最知名的PNG优质素材库
+      - name: StickPNG
+        icon: /items/stick-png.jpg
+        url: https://www.stickpng.com/
+        description: 免费｜拥有海量App图标、当前热门的png、矢量图素材
+      - name: 图怪兽
+        icon: /items/图怪兽.jpg
+        url: https://818ps.com/
+        description: 订阅｜封面/宣传物料设计，支持模版创作
+      - name: 发表情
+        icon: /items/发表情.jpg
+        url: https://www.fabiaoqing.com/
+        description: 免费｜贴心的把表情都整理成专题，支持在线制作表情
   - groupName: 字体素材
     groupId: stock-fonts
     links:
