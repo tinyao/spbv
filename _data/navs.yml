@@ -134,6 +134,10 @@ items:
         icon: /items/pixabay.jpg
         url: https://pixabay.com/
         description: 免费｜全球最大的免费图库之一，百万张高清图片供你选择
+      - name: SplitShire
+        icon: /items/SplitShire.jpg
+        url: https://www.splitshire.com/
+        description: 免费｜顶级摄影师创作的摄影作品素材库
       - name: GIPHY
         icon: /items/giphy.jpg
         url: https://giphy.com/
@@ -158,14 +162,6 @@ items:
         icon: /items/stockio.jpg
         url: https://www.stockio.com/
         description: 收录了大量的摄影图、矢量图、icon、字体
-      - name: SplitShire
-        icon: /items/SplitShire.jpg
-        url: https://www.splitshire.com/
-        description: 可商用｜顶级摄影师创作的图片、视频素材库
-      - name: Foodies Feed
-        icon: /items/Foodies-Feed.jpg
-        url: https://www.foodiesfeed.com/
-        description: 专攻食物图片的素材网站
   - groupName: 字体素材
     groupId: stock-fonts
     links:
