@@ -154,6 +154,10 @@ items:
         icon: /items/发表情.jpg
         url: https://www.fabiaoqing.com/
         description: 免费｜贴心的把表情都整理成专题，支持在线制作表情
+      - name: 逗比拯救世界
+        url: http://www.dbbqb.com/
+        description: 免费｜表情包搜索引擎
+        icon: /assets/uploads/07逗比拯救世界.png
   - groupName: 字体素材
     groupId: Stock_Fonts
     links:
