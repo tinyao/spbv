@@ -251,37 +251,6 @@ items:
         icon: /items/爱剪辑.jpg
         url: http://www.aijianji.com/index.htm
         description: 入门剪辑软件
-  - groupName: 辅助工具
-    groupId: plugin
-    links:
-      - name: 视频大拍档
-        icon: /items/视频大拍档.jpg
-        url: http://spdpd.net/
-        description: 应用内剪辑辅助软件，支持格式转换、无版权音乐下载、各种特效/插件/小工具、清理Pr&FCPX缓存
-      - name: 班迪录屏
-        icon: /items/班迪录屏（bandicam）.jpg
-        url: https://www.bandicam.cn/
-        description: 免费/支持游戏/屏幕/外设录制，简单易用，免费版支持10分钟录制，带水印；付费版¥249起
-      - name: OBS
-        icon: /items/OBS.jpg
-        url: https://obsproject.com/
-        description: 广泛用于直播投屏，同时也支持屏幕录制，功能强大但有学习成本
-      - name: Loopback
-        icon: /items/Loopback.jpg
-        url: https://rogueamoeba.com/loopback/
-        description: 配合QuickTime Player可以内录Mac的声音
-      - name: 墨灵音乐
-        icon: /items/墨灵音乐.jpg
-        url: https://music.qugeek.com/
-        description: 找个音乐没有这么难，在线下载音乐
-      - name: BitDownloader
-        icon: /items/BitDownloader.jpg
-        url: https://bitdownloader.com/
-        description: 下载YouTube / Twitter / ins上的视频
-      - name: GFXCAMP
-        icon: /items/GFXCAMP.jpg
-        url: http://www.gfxcamp.com/
-        description: 免费/拥有丰富的AR、Pr模版，FCPX插件
   - groupName: 音频处理
     groupId: Audio_Edit
     links:
@@ -332,6 +301,37 @@ items:
         icon: /items/草料二维码.jpg
         url: https://cli.im/
         description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
+  - groupName: 辅助工具
+    groupId: plugin
+    links:
+      - name: 视频大拍档
+        icon: /items/视频大拍档.jpg
+        url: http://spdpd.net/
+        description: 应用内剪辑辅助软件，支持格式转换、无版权音乐下载、各种特效/插件/小工具、清理Pr&FCPX缓存
+      - name: 班迪录屏
+        icon: /items/班迪录屏（bandicam）.jpg
+        url: https://www.bandicam.cn/
+        description: 免费/支持游戏/屏幕/外设录制，简单易用，免费版支持10分钟录制，带水印；付费版¥249起
+      - name: OBS
+        icon: /items/OBS.jpg
+        url: https://obsproject.com/
+        description: 广泛用于直播投屏，同时也支持屏幕录制，功能强大但有学习成本
+      - name: Loopback
+        icon: /items/Loopback.jpg
+        url: https://rogueamoeba.com/loopback/
+        description: 配合QuickTime Player可以内录Mac的声音
+      - name: 墨灵音乐
+        icon: /items/墨灵音乐.jpg
+        url: https://music.qugeek.com/
+        description: 找个音乐没有这么难，在线下载音乐
+      - name: BitDownloader
+        icon: /items/BitDownloader.jpg
+        url: https://bitdownloader.com/
+        description: 下载YouTube / Twitter / ins上的视频
+      - name: GFXCAMP
+        icon: /items/GFXCAMP.jpg
+        url: http://www.gfxcamp.com/
+        description: 免费/拥有丰富的AR、Pr模版，FCPX插件
   - groupName: 数据分析
     groupId: analysis
     links:
