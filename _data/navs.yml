@@ -332,16 +332,24 @@ items:
         icon: /items/GFXCAMP.jpg
         url: http://www.gfxcamp.com/
         description: 免费/拥有丰富的AR、Pr模版，FCPX插件
-  - groupName: 数据分析
-    groupId: analysis
+  - groupName: 数据观测
+    groupId: Analysis
     links:
+      - name: 新榜
+        url: https://www.newrank.cn/
+        icon: /assets/uploads/12新榜.png
+        description: 免费/付费｜国内新媒体数据观测平台，支持抖音/快手/B站
       - url: https://www.biliob.com/
         name: BiliOB观测者
-        description: 支持查看B站UP主排行、飙升热门关键词、视频表现等数据
+        description: 免费｜支持查看UP主排行、飙升关键词、视频表现等数据
         icon: /items/12biliob观测站.png
+      - name: 今日热榜
+        icon: /assets/uploads/12今日热榜.png
+        url: https://tophub.today/
+        description: 免费｜汇集国内各大网站的实时热门榜单
       - url: https://cn.noxinfluencer.com/
         name: Noxinfluencer
-        description: 海外网红数据平台，支持查看 YouTube / tiktok / ins 的当前热门内容、创作者数据表现
+        description: 免费/付费｜海外网红数据平台，支持YouTube/tiktok/ins数据观测
         icon: /items/12noxinfluencer.png
   - groupName: 入门教程
     groupId: tutorials
