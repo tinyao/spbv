@@ -5,27 +5,27 @@ items:
       - name: Bilibili 创作中心
         icon: /assets/uploads/01哔哩哔哩.png
         url: https://member.bilibili.com/
-        description: 管理后台｜哔哩哔哩 (゜-゜)つロ 干杯~
+        description: 哔哩哔哩 (゜-゜)つロ 干杯~
       - name: YouTube Studio
         icon: /assets/uploads/01youtube.png
         url: https://studio.youtube.com/
-        description: 管理后台｜Broadcast Yourself
+        description: Broadcast Yourself
       - name: 抖音创作服务平台
         icon: /assets/uploads/01抖音.png
         url: https://creator.douyin.com/
-        description: 管理后台｜记录美好生活
+        description: 记录美好生活
       - name: 快手创作者服务平台
         icon: /assets/uploads/01快手.png
         url: https://cp.kuaishou.com/
-        description: 管理后台｜记录世界记录你
+        description: 记录世界记录你
       - url: https://studio.ixigua.com
         name: 西瓜创作平台
         icon: /assets/uploads/01西瓜.png
-        description: 管理后台｜点亮对生活的好奇心
+        description: 点亮对生活的好奇心
       - name: 优酷创作中心
         icon: /assets/uploads/01优酷.png
         url: https://mp.youku.com/
-        description: 管理后台｜这世界很酷
+        description: 这世界很酷
   - groupName: 视频素材
     groupId: Stock_Videos
     links:
