@@ -26,6 +26,25 @@ items:
         icon: /items/01优酷.png
         url: https://mp.youku.com/
         description: 这世界很酷
+  - groupName: 数据观测
+    groupId: Analysis
+    links:
+      - name: 新榜
+        url: https://www.newrank.cn/
+        icon: /assets/uploads/12新榜.png
+        description: 免费/付费｜国内新媒体数据观测平台，支持抖音/快手/B站
+      - name: 今日热榜
+        icon: /assets/uploads/12今日热榜.png
+        url: https://tophub.today/
+        description: 免费｜汇集国内各大网站的实时热门榜单
+      - url: https://www.biliob.com/
+        name: BiliOB观测者
+        description: 免费｜支持查看UP主排行、飙升关键词、视频表现等数据
+        icon: /items/12biliob观测站.png
+      - url: https://cn.noxinfluencer.com/
+        name: Noxinfluencer
+        description: 免费/付费｜海外网红数据平台，支持YouTube/tiktok/ins数据观测
+        icon: /items/12noxinfluencer.png
   - groupName: 视频素材
     groupId: Stock_Videos
     links:
@@ -189,21 +208,24 @@ items:
         icon: /items/08沐瑶.png
         url: https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html
         description: 免费可商用｜设计师春颜秋色出品，1级字重
-  - groupName: 字幕工具
-    groupId: Subtitle_Edit
+  - groupName: 入门教程
+    groupId: tutorials
     links:
-      - name: ArcTime
-        icon: /items/arctime.jpg
-        url: https://arctime.org/
-        description: Win/Mac｜免费｜知名字幕处理软件，支持所有主流剪辑软件
-      - name: 讯飞听见
-        icon: /items/讯飞听见.jpg
-        url: https://www.iflyrec.com/
-        description: Win/Mac｜时长计费｜自动生成字幕，带可视化编辑器
-      - name: 网易见外工作台
-        icon: /items/网易见外工作台.jpg
-        url: https://jianwai.youdao.com/
-        description: 网页｜时长计费｜支持生成双语字幕/生肉自动翻译等等
+      - name: 影视飓风：一小时上手达芬奇剪辑
+        type: tutorial
+        icon: /items/davinci-tutorial.jpg
+        url: https://www.bilibili.com/video/BV1B7411A7M1
+        description: 影视飓风出品
+      - name: "[Pr教程] 0基础急速上手视频制作！UP主必备！"
+        type: tutorial
+        icon: /items/pr-tutorial.jpg
+        url: https://www.bilibili.com/video/BV1Ts411C7Yd
+        description: Pr入门教程
+      - name: 从零开始鬼畜
+        type: tutorial
+        icon: /items/guichu-tutorial.jpg
+        url: https://www.bilibili.com/video/BV1T4411M7qJ
+        description: 鬼畜入门教程
   - groupName: 剪辑软件
     groupId: Video_Edit
     links:
@@ -242,18 +264,10 @@ items:
   - groupName: 调音软件
     groupId: Audio_Edit
     links:
-      - name: Audio Converter
-        icon: /items/audio-converter.jpg
-        url: https://online-audio-converter.com/
-        description: 免费｜在线将视频转为音频
-      - name: Moises
-        icon: /items/Moises.jpg
-        url: https://moises.ai/
-        description: 免费/订阅｜在线人声消除，每月免费处理20分钟音频
-      - name: Audition
+      - name: Adobe Audition
         icon: /items/Audition.jpg
         url: https://www.adobe.com/cn/products/audition.html
-        description: 订阅制｜Win/Mac｜Adobe旗下音频处理软件
+        description: Win/Mac｜订阅｜Adobe旗下音频处理软件
       - name: UTAU
         icon: /items/UTAU_logo.jpg
         url: http://utau.bemanicn.com/
@@ -266,33 +280,14 @@ items:
         icon: /items/waves.jpg
         url: https://www.waves.com/
         description: 付费｜混音软件
-  - groupName: 图片处理
-    groupId: Picture_Edit
-    links:
-      - name: 凡科快图
-        url: https://kt.fkw.com/
-        description: 免费｜需登录｜支持模版创作/抠图/水印处理/图片压缩等
-        icon: /assets/uploads/11凡科快图.png
-      - name: 图怪兽
-        icon: /items/07图怪兽.png
-        description: 订阅｜封面/宣传图设计，支持模版创作
-        url: https://818ps.com/
-      - name: tinypng
-        icon: /items/tinypng.jpg
-        url: https://tinypng.com/
-        description: 免费｜图片无损压缩，设计师最常用网站之一
-      - name: Remove Background
-        icon: /items/remove-background.jpg
-        url: https://www.remove.bg/
-        description: 免费/订阅｜效果极佳的在线抠图工具
-      - name: ezGif
-        icon: /items/ezgif.jpg
-        url: https://ezgif.com/
-        description: 免费｜强大的GIF在线编辑器，支持压缩/剪裁/加文字/特效
-      - name: 草料二维码
-        icon: /items/草料二维码.jpg
-        url: https://cli.im/
-        description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
+      - name: Audio Converter
+        icon: /items/audio-converter.jpg
+        url: https://online-audio-converter.com/
+        description: 免费｜在线将视频转为音频
+      - name: Moises
+        icon: /items/Moises.jpg
+        url: https://moises.ai/
+        description: 免费/订阅｜在线人声消除，每月免费处理20分钟音频
   - groupName: 效率工具
     groupId: Plugin
     links:
@@ -324,43 +319,48 @@ items:
         icon: /items/GFXCAMP.jpg
         url: http://www.gfxcamp.com/
         description: 免费｜版权风险｜拥有丰富的AR、Pr模版，FCPX插件
-  - groupName: 数据观测
-    groupId: Analysis
+  - groupName: 字幕处理
+    groupId: Subtitle_Edit
     links:
-      - name: 新榜
-        url: https://www.newrank.cn/
-        icon: /assets/uploads/12新榜.png
-        description: 免费/付费｜国内新媒体数据观测平台，支持抖音/快手/B站
-      - url: https://www.biliob.com/
-        name: BiliOB观测者
-        description: 免费｜支持查看UP主排行、飙升关键词、视频表现等数据
-        icon: /items/12biliob观测站.png
-      - name: 今日热榜
-        icon: /assets/uploads/12今日热榜.png
-        url: https://tophub.today/
-        description: 免费｜汇集国内各大网站的实时热门榜单
-      - url: https://cn.noxinfluencer.com/
-        name: Noxinfluencer
-        description: 免费/付费｜海外网红数据平台，支持YouTube/tiktok/ins数据观测
-        icon: /items/12noxinfluencer.png
-  - groupName: 入门教程
-    groupId: tutorials
+      - name: ArcTime
+        icon: /items/arctime.jpg
+        url: https://arctime.org/
+        description: Win/Mac｜免费｜知名字幕处理软件，支持所有主流剪辑软件
+      - name: 讯飞听见
+        icon: /items/讯飞听见.jpg
+        url: https://www.iflyrec.com/
+        description: Win/Mac｜时长计费｜自动生成字幕，带可视化编辑器
+      - name: 网易见外工作台
+        icon: /items/网易见外工作台.jpg
+        url: https://jianwai.youdao.com/
+        description: 网页｜时长计费｜支持生成双语字幕/生肉自动翻译等等
+  - groupName: 图片处理
+    groupId: Picture_Edit
     links:
-      - name: 影视飓风：一小时上手达芬奇剪辑
-        type: tutorial
-        icon: /items/davinci-tutorial.jpg
-        url: https://www.bilibili.com/video/BV1B7411A7M1
-        description: 影视飓风出品
-      - name: "[Pr教程] 0基础急速上手视频制作！UP主必备！"
-        type: tutorial
-        icon: /items/pr-tutorial.jpg
-        url: https://www.bilibili.com/video/BV1Ts411C7Yd
-        description: Pr入门教程
-      - name: 从零开始鬼畜
-        type: tutorial
-        icon: /items/guichu-tutorial.jpg
-        url: https://www.bilibili.com/video/BV1T4411M7qJ
-        description: 鬼畜入门教程
+      - name: 凡科快图
+        url: https://kt.fkw.com/
+        description: 免费｜需登录｜支持模版创作/抠图/水印处理/图片压缩等
+        icon: /assets/uploads/11凡科快图.png
+      - name: 图怪兽
+        icon: /items/07图怪兽.png
+        description: 订阅｜封面/宣传图设计，支持模版创作
+        url: https://818ps.com/
+      - name: tinypng
+        icon: /items/tinypng.jpg
+        url: https://tinypng.com/
+        description: 免费｜图片无损压缩，设计师最常用网站之一
+      - name: Remove Background
+        icon: /items/remove-background.jpg
+        url: https://www.remove.bg/
+        description: 免费/订阅｜效果极佳的在线抠图工具
+      - name: ezGif
+        icon: /items/ezgif.jpg
+        url: https://ezgif.com/
+        description: 免费｜强大的GIF在线编辑器，支持压缩/剪裁/加文字/特效
+      - name: 草料二维码
+        icon: /items/草料二维码.jpg
+        url: https://cli.im/
+        description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
   - groupName: 器材推荐
     groupId: equipments
     links:
