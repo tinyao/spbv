@@ -212,6 +212,7 @@ items:
     groupId: tutorials
     links:
       - url: https://www.bilibili.com/video/BV15W411d7eC
+        type: tutorial
         name: 摄影教程｜掌握这5个摄影技巧，1个月内你也能成为摄影达人
         description: "@HusseinsDrama 制作"
         icon: /assets/uploads/位图.jpg
@@ -221,6 +222,7 @@ items:
         url: https://www.bilibili.com/video/BV1Ts411C7Yd
         description: "@天JIANG 制作"
       - url: https://www.bilibili.com/video/BV1e7411M7Rm
+        type: tutorial
         description: "@Mac云课堂 制作"
         name: FCP教程｜快速入门 Final Cut Pro X，0 门槛高效率剪辑视频
         icon: /assets/uploads/位图3.jpg
