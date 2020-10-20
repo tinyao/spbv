@@ -186,24 +186,24 @@ items:
         url: https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html
         description: 免费可商用｜设计师春颜秋色出品，1级字重
   - groupName: 字幕处理
-    groupId: tools-subtitle
+    groupId: Subtitle_Edit
     links:
       - name: ArcTime
         icon: /items/arctime.jpg
         url: https://arctime.org/
-        description: 知名字幕编辑软件，无缝支持所有主流剪辑软件
+        description: Win/Mac｜免费｜知名字幕处理软件，支持所有主流剪辑软件
       - name: 讯飞听见
         icon: /items/讯飞听见.jpg
         url: https://www.iflyrec.com/
-        description: 网页版｜¥0.33/分钟｜自动生成字幕，带可视化编辑器
+        description: Win/Mac｜时长计费｜自动生成字幕，带可视化编辑器
       - name: 网易见外工作台
         icon: /items/网易见外工作台.jpg
         url: https://jianwai.youdao.com/
-        description: 网页版｜按时长计费｜支持AI生成双语字幕；生肉自动翻译；文档、语音、图片翻译
+        description: 网页｜时长计费｜支持生成双语字幕/生肉自动翻译等等
       - name: 突字幕
         icon: /items/突字幕.jpg
         url: https://2zimu.com/
-        description: 网页版｜点数识别中英日文，不限时长，文件最大支持3.9G，可导出SRT文件
+        description: 网页｜点数计费｜识别中英日，文件最大支持3.9GB，导出SRT
   - groupName: 图片处理
     groupId: Picture_Edit
     links:
