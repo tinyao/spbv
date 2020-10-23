@@ -39,7 +39,18 @@ a {
   background-color: $sidebarBackground;
   padding: 50px 0;
   text-align: center;
-  overflow: scroll;
+  overflow-y: hidden;
+  overflow: hidden;
+  position: relative; 
+
+  .inner {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: -17px; /* Increase/Decrease this value for cross-browser compatibility */
+    overflow-y: scroll;
+  }
 
   .nav-logo {
     position: relative;
@@ -59,8 +70,8 @@ a {
     padding-inline-start: 0;
 
     li.nav-menu-item {
-      height: 48px;
-      line-height: 48px;
+      height: 42px;
+      line-height: 42px;
       font-size: 14px;
       list-style: none;
       color: #999999;
