@@ -316,10 +316,6 @@ items:
         icon: /assets/uploads/墨灵音乐.jpg
         url: https://music.qugeek.com/
         description: 免费｜版权风险｜在线下载音乐，找个音乐没有这么难
-      - name: BitDownloader
-        icon: /assets/uploads/BitDownloader.jpg
-        url: https://bitdownloader.com/
-        description: 免费｜版权风险｜下载YouTube/Twitter/ins上的视频
       - name: GFXCAMP
         icon: /assets/uploads/GFXCAMP.jpg
         url: http://www.gfxcamp.com/
