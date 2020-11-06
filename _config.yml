@@ -1,6 +1,6 @@
 # Site settings
-title: 视频伴侣
-description: "视频工作者导航，视频创作的得力助手，让你专注内容创作。"
+title: 视频伴侣 - 视频制作的得力助手
+description: "spbanlv 是服务UP主/短视频博主/剪辑师的网址大全，收录视频剪辑软件、视频素材、图片素材、音乐素材、音效素材、免费商用字体、语音转文字、视频剪辑教程等视频制作、后期所需各类优秀站点。"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.spbanlv.com" # the base hostname & protocol for your site
 permalink: /blog/:year/:month/:day/:title/
