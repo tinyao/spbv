@@ -250,6 +250,10 @@ items:
         icon: /assets/uploads/达芬奇.jpg
         url: http://www.blackmagicdesign.com/cn/products/davinciresolve/
         description: Win/Mac/Linux｜付费｜电影级剪辑软件，BlackMagic出品
+      - name: 剪映
+        url: https://lv.ulikecam.com/
+        description: Win/Mac/App｜免费｜字节跳动出品，自带素材特效丰富，上手简单
+        icon: /assets/uploads/02剪映.png
       - name: Vegas
         icon: /assets/uploads/vegas.jpg
         url: https://www.vegaschina.cn/
