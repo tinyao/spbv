@@ -37,10 +37,6 @@ items:
         icon: /assets/uploads/12今日热榜.png
         url: https://tophub.today/
         description: 免费｜汇集国内各大网站的实时热门榜单
-      - url: https://www.biliob.com/
-        name: BiliOB观测者
-        description: 免费｜支持查看UP主排行、飙升关键词、视频表现等数据
-        icon: /assets/uploads/12biliob观测站.png
       - url: https://cn.noxinfluencer.com/
         name: Noxinfluencer
         description: 免费/付费｜海外网红数据平台，支持YouTube/tiktok/ins数据观测
@@ -316,10 +312,6 @@ items:
         icon: /assets/uploads/Loopback.jpg
         url: https://rogueamoeba.com/loopback/
         description: Mac｜免费｜配合QuickTime Player可内录视频音源
-      - name: 墨灵音乐
-        icon: /assets/uploads/墨灵音乐.jpg
-        url: https://music.qugeek.com/
-        description: 免费｜版权风险｜在线下载音乐，找个音乐没有这么难
       - name: GFXCAMP
         icon: /assets/uploads/GFXCAMP.jpg
         url: http://www.gfxcamp.com/
@@ -366,6 +358,10 @@ items:
         icon: /assets/uploads/草料二维码.jpg
         url: https://cli.im/
         description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
+      - name: coolors
+        url: https://coolors.co/palettes/trending
+        icon: /assets/uploads/11colors.png
+        description: 免费｜简单好用的配色方案网站，可以通过主色调、风格推荐配色方案
   - groupName: 器材推荐
     groupId: equipments
     links:
