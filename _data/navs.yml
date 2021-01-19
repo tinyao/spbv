@@ -266,10 +266,6 @@ items:
         icon: /assets/uploads/会声会影.jpg
         url: https://www.huishenghuiying.com.cn/
         description: Win｜付费｜入门剪辑软件，预设模版丰富
-      - name: VUE Vlog
-        icon: /assets/uploads/VUE.jpg
-        url: https://vuevideo.net/
-        description: App｜应用内付费｜以电影滤镜闻名，主打VLOG剪辑
   - groupName: 调音软件
     groupId: Audio_Edit
     links:
