@@ -20,7 +20,7 @@ items:
         description: 记录世界记录你
       - url: https://channels.weixin.qq.com
         name: 视频号助手
-        icon: /assets/uploads/01视频号.png
+        icon: /assets/uploads/01视频号助手.png
         description: 人人皆可创作的平台
       - url: https://studio.ixigua.com
         name: 西瓜创作平台
