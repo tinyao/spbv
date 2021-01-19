@@ -18,6 +18,10 @@ items:
         icon: /assets/uploads/01快手.png
         url: https://cp.kuaishou.com/
         description: 记录世界记录你
+      - url: https://channels.weixin.qq.com
+        name: 视频号助手
+        icon: /assets/uploads/01视频号.png
+        description: 人人皆可创作的平台
       - url: https://studio.ixigua.com
         name: 西瓜创作平台
         icon: /assets/uploads/01西瓜.png
