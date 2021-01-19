@@ -188,6 +188,10 @@ items:
         icon: /assets/uploads/字由.jpg
         url: https://www.hellofont.cn/
         description: 免费/付费｜设计师必备字体利器，拥有千款不同风格字体
+      - name: 站酷字库
+        url: https://www.zcool.com.cn/special/zcoolfonts
+        description: 免费可商用｜站酷出品，几套免费授权全社会使用的字体
+        icon: /assets/uploads/08站酷字库.png
       - name: 优设标题黑
         icon: /assets/uploads/优设标题黑.jpg
         url: https://www.hellofont.cn/font-detail?fontid=7088
