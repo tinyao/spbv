@@ -316,10 +316,6 @@ items:
         icon: /assets/uploads/Loopback.jpg
         url: https://rogueamoeba.com/loopback/
         description: Mac｜免费｜配合QuickTime Player可内录视频音源
-      - name: GFXCAMP
-        icon: /assets/uploads/GFXCAMP.jpg
-        url: http://www.gfxcamp.com/
-        description: 免费｜版权风险｜拥有丰富的AR、Pr模版，FCPX插件
   - groupName: 字幕处理
     groupId: Subtitle_Edit
     links:
