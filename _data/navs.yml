@@ -60,7 +60,7 @@ items:
         icon: /assets/uploads/Mazwai.jpg
         url: https://mazwai.com/
         description: 免费｜摄影爱好者上传素材的网站，素材质量非常高
-      - name: coverr
+      - name: Coverr
         icon: /assets/uploads/coverr.jpg
         url: https://coverr.co/
         description: 免费｜素材偏向食物、人物、风景、城市...
@@ -103,7 +103,7 @@ items:
         icon: /assets/uploads/Bensound.jpg
         url: https://www.bensound.com/
         description: 免费/付费｜拥有高质量BGM，广泛用于动画/广告/宣传片
-      - name: icon8 music
+      - name: icon8 Music
         icon: /assets/uploads/icons8.jpg
         url: https://icons8.com/music
         description: 免费/订阅｜icons8旗下音频站，音乐标签分类清晰
