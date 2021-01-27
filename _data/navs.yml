@@ -37,14 +37,18 @@ items:
         url: https://www.newrank.cn/
         icon: /assets/uploads/12新榜.png
         description: 免费/付费｜国内新媒体数据观测平台，支持抖音/快手/B站
-      - name: 今日热榜
-        icon: /assets/uploads/12今日热榜.png
-        url: https://tophub.today/
-        description: 免费｜汇集国内各大网站的实时热门榜单
+      - name: 飞瓜数据
+        icon: /assets/uploads/12飞瓜数据.png
+        url: https://www.feigua.cn
+        description: 免费/付费｜支持抖音/快手/B站热门视频、粉丝排行
       - url: https://cn.noxinfluencer.com/
         name: Noxinfluencer
         description: 免费/付费｜海外网红数据平台，支持YouTube/tiktok/ins数据观测
         icon: /assets/uploads/12noxinfluencer.png
+      - name: 今日热榜
+        icon: /assets/uploads/12今日热榜.png
+        url: https://tophub.today/
+        description: 免费｜汇集国内各大网站的实时热门榜单
   - groupName: 视频素材
     groupId: Stock_Videos
     links:
