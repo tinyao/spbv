@@ -177,6 +177,37 @@ items:
         url: http://www.dbbqb.com/
         description: 免费｜表情包搜索引擎
         icon: /assets/uploads/07逗比拯救世界.png
+  - groupName: 图片处理
+    groupId: Picture_Edit
+    links:
+      - name: 凡科快图
+        url: https://kt.fkw.com/
+        description: 免费｜需登录｜支持模版创作/抠图/水印处理/图片压缩等
+        icon: /assets/uploads/11凡科快图.png
+      - name: 图怪兽
+        icon: /assets/uploads/07图怪兽.png
+        description: 订阅｜封面/宣传图设计，支持模版创作
+        url: https://818ps.com/
+      - name: tinypng
+        icon: /assets/uploads/tinypng.jpg
+        url: https://tinypng.com/
+        description: 免费｜图片无损压缩，设计师最常用网站之一
+      - name: Remove Background
+        icon: /assets/uploads/remove-background.jpg
+        url: https://www.remove.bg/
+        description: 免费/订阅｜效果极佳的在线抠图工具
+      - name: ezGif
+        icon: /assets/uploads/ezgif.jpg
+        url: https://ezgif.com/
+        description: 免费｜强大的GIF在线编辑器，支持压缩/剪裁/加文字/特效
+      - name: 草料二维码
+        icon: /assets/uploads/草料二维码.jpg
+        url: https://cli.im/
+        description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
+      - name: coolors
+        url: https://coolors.co/palettes/trending
+        icon: /assets/uploads/11colors.png
+        description: 免费｜简单好用的配色方案网站，可以通过主色调、风格推荐配色方案
   - groupName: 字体素材
     groupId: Stock_Fonts
     links:
@@ -212,6 +243,21 @@ items:
         icon: /assets/uploads/08沐瑶.png
         url: https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html
         description: 免费可商用｜设计师春颜秋色出品，1级字重
+  - groupName: 字幕处理
+    groupId: Subtitle_Edit
+    links:
+      - name: ArcTime
+        icon: /assets/uploads/arctime.jpg
+        url: https://arctime.org/
+        description: Win/Mac｜免费｜知名字幕处理软件，支持所有主流剪辑软件
+      - name: 讯飞听见
+        icon: /assets/uploads/讯飞听见.jpg
+        url: https://www.iflyrec.com/
+        description: Win/Mac｜时长计费｜自动生成字幕，带可视化编辑器
+      - name: 网易见外工作台
+        icon: /assets/uploads/网易见外工作台.jpg
+        url: https://jianwai.youdao.com/
+        description: 网页｜时长计费｜支持生成双语字幕/生肉自动翻译等等
   - groupName: 入门教程
     groupId: tutorials
     links:
@@ -316,52 +362,6 @@ items:
         icon: /assets/uploads/Loopback.jpg
         url: https://rogueamoeba.com/loopback/
         description: Mac｜免费｜配合QuickTime Player可内录视频音源
-  - groupName: 字幕处理
-    groupId: Subtitle_Edit
-    links:
-      - name: ArcTime
-        icon: /assets/uploads/arctime.jpg
-        url: https://arctime.org/
-        description: Win/Mac｜免费｜知名字幕处理软件，支持所有主流剪辑软件
-      - name: 讯飞听见
-        icon: /assets/uploads/讯飞听见.jpg
-        url: https://www.iflyrec.com/
-        description: Win/Mac｜时长计费｜自动生成字幕，带可视化编辑器
-      - name: 网易见外工作台
-        icon: /assets/uploads/网易见外工作台.jpg
-        url: https://jianwai.youdao.com/
-        description: 网页｜时长计费｜支持生成双语字幕/生肉自动翻译等等
-  - groupName: 图片处理
-    groupId: Picture_Edit
-    links:
-      - name: 凡科快图
-        url: https://kt.fkw.com/
-        description: 免费｜需登录｜支持模版创作/抠图/水印处理/图片压缩等
-        icon: /assets/uploads/11凡科快图.png
-      - name: 图怪兽
-        icon: /assets/uploads/07图怪兽.png
-        description: 订阅｜封面/宣传图设计，支持模版创作
-        url: https://818ps.com/
-      - name: tinypng
-        icon: /assets/uploads/tinypng.jpg
-        url: https://tinypng.com/
-        description: 免费｜图片无损压缩，设计师最常用网站之一
-      - name: Remove Background
-        icon: /assets/uploads/remove-background.jpg
-        url: https://www.remove.bg/
-        description: 免费/订阅｜效果极佳的在线抠图工具
-      - name: ezGif
-        icon: /assets/uploads/ezgif.jpg
-        url: https://ezgif.com/
-        description: 免费｜强大的GIF在线编辑器，支持压缩/剪裁/加文字/特效
-      - name: 草料二维码
-        icon: /assets/uploads/草料二维码.jpg
-        url: https://cli.im/
-        description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
-      - name: coolors
-        url: https://coolors.co/palettes/trending
-        icon: /assets/uploads/11colors.png
-        description: 免费｜简单好用的配色方案网站，可以通过主色调、风格推荐配色方案
   - groupName: 器材推荐
     groupId: equipments
     links:
