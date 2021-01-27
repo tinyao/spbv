@@ -196,6 +196,10 @@ items:
         icon: /assets/uploads/remove-background.jpg
         url: https://www.remove.bg/
         description: 免费/订阅｜效果极佳的在线抠图工具
+      - name: Coolors
+        url: https://coolors.co/palettes/trending
+        icon: /assets/uploads/11colors.png
+        description: 免费｜简单好用的配色方案网站，可以通过主色调、风格推荐配色方案
       - name: ezGif
         icon: /assets/uploads/ezgif.jpg
         url: https://ezgif.com/
@@ -204,10 +208,6 @@ items:
         icon: /assets/uploads/草料二维码.jpg
         url: https://cli.im/
         description: 免费｜支持将网址/文件/图片/微信等物料一键生成二维码
-      - name: coolors
-        url: https://coolors.co/palettes/trending
-        icon: /assets/uploads/11colors.png
-        description: 免费｜简单好用的配色方案网站，可以通过主色调、风格推荐配色方案
   - groupName: 字体素材
     groupId: Stock_Fonts
     links:
