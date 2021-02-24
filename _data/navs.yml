@@ -262,10 +262,10 @@ items:
         icon: /assets/uploads/网易见外工作台.jpg
         url: https://jianwai.youdao.com/
         description: 网页｜时长计费｜支持生成双语字幕/生肉自动翻译等等
-      - name: 逗哥配音
+      - name: 逗哥配音神器
         icon: /assets/uploads/09逗哥配音.png
         url: http://douge.club
-        description: 网页｜免费/付费｜支持各种语气/方言，发音自然，可在线生成可下载的配音文件
+        description: 网页｜免费/付费｜发音自然，可在线生成可下载的配音文件。支持调节语速，增加背景音乐等功能
   - groupName: 入门教程
     groupId: tutorials
     links:
