@@ -90,19 +90,23 @@ items:
       - name: ccMixter
         icon: /assets/uploads/ccmixter.jpg
         url: http://dig.ccmixter.org/
-        description: 免费｜创作者热捧的音频站，专注于视频、游戏的BGM
+        description: 免费版权｜创作者热捧的音频站，专注于视频、游戏的BGM
       - name: YouTube 音频库
         icon: /assets/uploads/youtube-audiolibrary.jpg
         url: https://www.youtube.com/audiolibrary
-        description: 免费｜全球音乐人发布在油管上的无版权音乐、音效
+        description: 免费版权｜全球音乐人发布在油管上的无版权音乐、音效
       - name: FMA
         icon: /assets/uploads/FMA.jpg
         url: https://freemusicarchive.org/
-        description: 免费｜全球最大的无版权音乐库之一，放心使用
+        description: 免费版权｜全球最大的无版权音乐库之一，放心使用
       - name: FreePD
         icon: /assets/uploads/FreePD.jpg
         url: https://freepd.com/
-        description: 免费｜汇集了不同类型的免版权海量音乐素材
+        description: 免费版权｜汇集了不同类型的免版权海量音乐素材
+      - name: Musopen
+        icon: /assets/uploads/05musopen.png
+        url: https://musopen.org
+        description: 免费版权｜收录海量古典乐、交响乐等，知名作曲家的传世经典乐章
       - name: Bensound
         icon: /assets/uploads/Bensound.jpg
         url: https://www.bensound.com/
