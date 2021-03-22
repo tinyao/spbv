@@ -49,6 +49,10 @@ items:
         icon: /assets/uploads/12今日热榜.png
         url: https://tophub.today/
         description: 免费｜汇集国内各大网站的实时热门榜单
+      - name: "5118"
+        icon: /assets/uploads/12-5118.png
+        url: https://www.5118.com
+        description: 免费/付费｜站长工具，营销大数据：辅助观测热点、热门关键词
   - groupName: 视频素材
     groupId: Stock_Videos
     links:
