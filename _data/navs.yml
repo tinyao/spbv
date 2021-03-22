@@ -52,7 +52,7 @@ items:
       - name: "5118"
         icon: /assets/uploads/12-5118.png
         url: https://www.5118.com
-        description: 免费/付费｜站长工具，营销大数据：辅助观测热点、热门关键词
+        description: 免费/付费｜营销大数据观测，热点/关键词挖掘
   - groupName: 视频素材
     groupId: Stock_Videos
     links:
