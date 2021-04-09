@@ -19,7 +19,7 @@ items:
         icon: /assets/uploads/01视频号助手.png
         description: “人人皆可创作的平台”
       - name: YouTube Studio
-        icon: /assets/uploads/01youtube.png
+        icon: /assets/uploads/01youtube2.png
         url: https://studio.youtube.com/
         description: “Broadcast Yourself”
       - url: https://studio.ixigua.com
