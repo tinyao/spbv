@@ -297,6 +297,10 @@ items:
         icon: /assets/uploads/位图4.jpg
         url: https://www.bilibili.com/video/BV1B7411A7M1
         description: "@影视飓风 制作"
+      - name: 学习看电影：从零开始了解镜头语言
+        url: https://www.bilibili.com/video/BV1bb411H7cG
+        description: "@拉片实验室 制作"
+        icon: /assets/uploads/13入门教程-学习看电影.jpg
   - groupName: 剪辑软件
     groupId: Video_Edit
     links:
