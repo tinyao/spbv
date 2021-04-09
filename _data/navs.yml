@@ -26,6 +26,10 @@ items:
         name: 西瓜创作平台
         icon: /assets/uploads/01西瓜.png
         description: 点亮对生活的好奇心
+      - name: 好看创作平台
+        icon: /assets/uploads/01好看视频.png
+        url: https://dream.haokan.com
+        description: 轻松有收获
       - name: 优酷创作中心
         icon: /assets/uploads/01优酷.png
         url: https://mp.youku.com/
