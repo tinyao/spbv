@@ -5,11 +5,7 @@ items:
       - name: Bilibili 创作中心
         icon: /assets/uploads/01哔哩哔哩.png
         url: https://member.bilibili.com/
-        description: 哔哩哔哩 (゜-゜)つロ 干杯~
-      - name: YouTube Studio
-        icon: /assets/uploads/01youtube.png
-        url: https://studio.youtube.com/
-        description: Broadcast Yourself
+        description: 你感兴趣的视频都在B站
       - name: 抖音创作服务平台
         icon: /assets/uploads/01抖音.png
         url: https://creator.douyin.com/
@@ -17,11 +13,15 @@ items:
       - name: 快手创作者服务平台
         icon: /assets/uploads/01快手.png
         url: https://cp.kuaishou.com/
-        description: 记录世界记录你
+        description: 拥抱每一种生活
       - url: https://channels.weixin.qq.com
         name: 微信视频号助手
         icon: /assets/uploads/01视频号助手.png
         description: 人人皆可创作的平台
+      - name: YouTube Studio
+        icon: /assets/uploads/01youtube.png
+        url: https://studio.youtube.com/
+        description: Broadcast Yourself
       - url: https://studio.ixigua.com
         name: 西瓜创作平台
         icon: /assets/uploads/01西瓜.png
