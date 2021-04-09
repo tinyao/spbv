@@ -281,7 +281,7 @@ items:
   - groupName: 入门教程
     groupId: tutorials
     links:
-      - name: 学习看电影：从零开始了解镜头语言
+      - name: 镜头语言｜学习看电影
         url: https://www.bilibili.com/video/BV1bb411H7cG
         description: "@拉片实验室 制作"
         icon: /assets/uploads/13入门教程-学习看电影.jpg
