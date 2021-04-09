@@ -419,7 +419,11 @@ items:
         icon: /assets/uploads/神牛.jpg
         url: https://m.tb.cn/h.4pUTd0z
         description: “便宜噪音小，60瓦亮度够用，适合棚拍”
-      - name: Fotopro RM-100+ PRO
+      - name: 洋葱工厂 巧克力PRO 滑轨
+        icon: /assets/uploads/14器材推荐-巧克力pro备份.png
+        url: https://m.tb.cn/h.4MvGCq4
+        description: “小巧迷你，电动稳定”
+      - name: 富图宝 Fotopro RM-100+ PRO
         type: device
         icon: /assets/uploads/Fotopro.jpg
         url: https://m.tb.cn/h.4oq20jh
