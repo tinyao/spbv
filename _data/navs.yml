@@ -277,6 +277,10 @@ items:
   - groupName: 入门教程
     groupId: tutorials
     links:
+      - name: 学习看电影：从零开始了解镜头语言
+        url: https://www.bilibili.com/video/BV1bb411H7cG
+        description: "@拉片实验室 制作"
+        icon: /assets/uploads/13入门教程-学习看电影.jpg
       - url: https://www.bilibili.com/video/BV15W411d7eC
         type: tutorial
         name: 摄影教程｜掌握这5个摄影技巧，1个月内你也能成为摄影达人
@@ -287,6 +291,10 @@ items:
         icon: /assets/uploads/位图2.jpg
         url: https://www.bilibili.com/video/BV1Ts411C7Yd
         description: "@天JIANG 制作"
+      - name: AE教程｜After Effects快速入门教程
+        icon: /assets/uploads/13入门教程-ae入门.jpg
+        url: https://www.bilibili.com/video/BV1fs411B7yt
+        description: "@doyoudo 制作"
       - url: https://www.bilibili.com/video/BV1e7411M7Rm
         type: tutorial
         description: "@Mac云课堂 制作"
@@ -297,10 +305,6 @@ items:
         icon: /assets/uploads/位图4.jpg
         url: https://www.bilibili.com/video/BV1B7411A7M1
         description: "@影视飓风 制作"
-      - name: 学习看电影：从零开始了解镜头语言
-        url: https://www.bilibili.com/video/BV1bb411H7cG
-        description: "@拉片实验室 制作"
-        icon: /assets/uploads/13入门教程-学习看电影.jpg
   - groupName: 剪辑软件
     groupId: Video_Edit
     links:
