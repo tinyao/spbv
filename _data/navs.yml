@@ -284,6 +284,7 @@ items:
       - name: 镜头语言｜学习看电影
         url: https://www.bilibili.com/video/BV1bb411H7cG
         description: "@拉片实验室 制作"
+        type: tutorial
         icon: /assets/uploads/13入门教程-学习看电影.jpg
       - url: https://www.bilibili.com/video/BV15W411d7eC
         type: tutorial
@@ -298,6 +299,7 @@ items:
       - name: AE教程｜After Effects快速入门教程
         icon: /assets/uploads/13入门教程-ae入门.jpg
         url: https://www.bilibili.com/video/BV1fs411B7yt
+        type: tutorial
         description: "@doyoudo 制作"
       - url: https://www.bilibili.com/video/BV1e7411M7Rm
         type: tutorial
