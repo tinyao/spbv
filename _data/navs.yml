@@ -426,6 +426,7 @@ items:
         url: https://m.tb.cn/h.4pUTd0z
         description: “便宜噪音小，60瓦亮度够用，适合棚拍”
       - name: 洋葱工厂 巧克力PRO 滑轨
+        type: device
         icon: /assets/uploads/14器材推荐-巧克力pro备份.png
         url: https://m.tb.cn/h.4MvGCq4
         description: “小巧迷你，电动稳定”
