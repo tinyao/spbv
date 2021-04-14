@@ -373,6 +373,21 @@ items:
         icon: /assets/uploads/Moises.jpg
         url: https://moises.ai/
         description: 免费/订阅｜在线人声消除，每月免费处理20分钟音频
+  - groupName: 直播录屏
+    groupId: Live_Edit
+    links:
+      - name: OBS
+        icon: /assets/uploads/03obs3.png
+        url: https://obsproject.com/
+        description: Win/Mac/Linux｜免费｜广泛用于直播投屏、屏幕录制
+      - name: 班迪录屏
+        icon: /assets/uploads/03班迪录屏（bandicam）3.png
+        description: Win｜免费/付费｜支持游戏/屏幕/外设录制，简单易用
+        url: https://www.bandicam.cn/
+      - name: Loopback
+        url: https://rogueamoeba.com/loopback/
+        description: Mac｜免费｜配合QuickTime Player可内录视频音源
+        icon: /assets/uploads/03loopback3.png
   - groupName: 效率工具
     groupId: Plugin
     links:
@@ -380,18 +395,6 @@ items:
         icon: /assets/uploads/视频大拍档.jpg
         url: http://spdpd.net/
         description: Win/Mac｜应用内付费｜剪辑助手，格式转换/缓存清理/特效/音乐
-      - name: 班迪录屏
-        icon: /assets/uploads/班迪录屏（bandicam）.jpg
-        url: https://www.bandicam.cn/
-        description: Win｜免费/付费｜支持游戏/屏幕/外设录制，简单易用
-      - name: OBS
-        icon: /assets/uploads/OBS.jpg
-        url: https://obsproject.com/
-        description: Win/Mac/Linux｜免费｜广泛用于直播投屏、屏幕录制
-      - name: Loopback
-        icon: /assets/uploads/Loopback.jpg
-        url: https://rogueamoeba.com/loopback/
-        description: Mac｜免费｜配合QuickTime Player可内录视频音源
   - groupName: 器材推荐
     groupId: equipments
     links:
