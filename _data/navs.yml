@@ -40,7 +40,7 @@ items:
       - name: 新榜
         url: https://www.newrank.cn/
         icon: /assets/uploads/12新榜.png
-        description: 免费/付费｜国内新媒体数据观测平台，支持抖音/快手/B站
+        description: 免费/付费｜自媒体数据观测、接商单变现服务平台
       - name: 飞瓜数据
         icon: /assets/uploads/12飞瓜数据.png
         url: https://www.feigua.cn
