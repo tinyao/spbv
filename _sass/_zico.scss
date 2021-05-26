@@ -30,7 +30,8 @@ a {
 
 .sidebar {
   -webkit-overflow-scrolling: touch;
-  width: 240px;
+  width: 2
+    ;
   position: fixed;
   z-index: 200;
   top: 0;
@@ -55,7 +56,7 @@ a {
     position: relative;
     display: block;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 20px;
 
     img {
       width: 140px;
@@ -66,7 +67,7 @@ a {
   }
 
   ul.nav-menu {
-    margin-top: 30px;
+    margin-top: 10px;
     padding-inline-start: 0;
 
     li.nav-menu-item {
