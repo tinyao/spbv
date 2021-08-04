@@ -342,10 +342,10 @@ items:
         icon: /assets/uploads/爱剪辑.jpg
         url: http://www.aijianji.com/index.htm
         description: Win｜免费｜入门剪辑软件
-      - name: 会声会影
-        icon: /assets/uploads/会声会影.jpg
-        url: https://www.huishenghuiying.com.cn/
-        description: Win｜付费｜入门剪辑软件，预设模版丰富
+      - name: 视频大拍档
+        icon: /assets/uploads/视频大拍档.jpg
+        url: http://spdpd.net/
+        description: Win/Mac｜应用内付费｜剪辑助手，格式转换/缓存清理/特效/音乐
   - groupName: 调音软件
     groupId: Audio_Edit
     links:
@@ -388,10 +388,3 @@ items:
         url: https://rogueamoeba.com/loopback/
         description: Mac｜免费｜配合QuickTime Player可内录视频音源
         icon: /assets/uploads/03loopback3.png
-  - groupName: 效率工具
-    groupId: Plugin
-    links:
-      - name: 视频大拍档
-        icon: /assets/uploads/视频大拍档.jpg
-        url: http://spdpd.net/
-        description: Win/Mac｜应用内付费｜剪辑助手，格式转换/缓存清理/特效/音乐
