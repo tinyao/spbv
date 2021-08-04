@@ -395,36 +395,3 @@ items:
         icon: /assets/uploads/视频大拍档.jpg
         url: http://spdpd.net/
         description: Win/Mac｜应用内付费｜剪辑助手，格式转换/缓存清理/特效/音乐
-  - groupName: 器材推荐
-    groupId: equipments
-    links:
-      - name: 索尼 a7m3（Alpha 7 Mark III）
-        type: device
-        icon: /assets/uploads/a7m3.jpg
-        url: https://m.tb.cn/h.4uJfwjg
-        description: “2020年依旧性价比之王，摄影师/UP主们都在用”
-      - name: 罗德 Rode Wireless Go
-        type: device
-        icon: /assets/uploads/Rode-Wireless-Go.jpg
-        url: https://m.tb.cn/h.4v7ZAMJ
-        description: “无线麦，随身携带收声无压力，vlog好伴侣”
-      - name: 罗德 Rode VideoMicro
-        type: device
-        icon: /assets/uploads/Rode-VideoMicro.jpg
-        url: https://m.tb.cn/h.4Gutn01
-        description: “便宜好用的枪头麦，入门首选”
-      - name: 爱图仕 120D
-        type: device
-        icon: /assets/uploads/爱图仕-120D.jpg
-        url: https://m.tb.cn/h.4GuIAkg
-        description: “选它，补光灯一步到位！”
-      - name: 洋葱工厂 滑轨
-        type: device
-        icon: /assets/uploads/14器材推荐-巧克力pro备份.png
-        url: https://m.tb.cn/h.4GuIu5Y
-        description: “小巧迷你，电动稳定”
-      - name: 富图宝 Fotopro RM-100+ PRO
-        type: device
-        icon: /assets/uploads/Fotopro.jpg
-        url: https://m.tb.cn/h.4Fm0txh
-        description: “小巧便携，可以用它摆各种角度的机位”
